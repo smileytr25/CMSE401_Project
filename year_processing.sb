@@ -1,0 +1,15 @@
+#!/bin/bash --login
+#SBATCH --job-name=year_proc
+#SBATCH --output=logs/year_proc_%j.out     # Save stdout to log file
+#SBATCH --error=logs/year_proc_%j.err      # Save stderr to log file
+#SBATCH --ntasks=1
+#SBATCH --cpus-per-task=27
+#SBATCH --mem=64G                          # Adjust if needed
+#SBATCH --time=04:00:00                    # Adjust walltime as needed
+#SBATCH --partition=standard               # Or 'debug', 'long', etc.
+#SBATCH --exclusive                        # Ensures full node usage (optional)
+
+mkdir -p ./data
+rm logs/*
+python year_processing.py
+

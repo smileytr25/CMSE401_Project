@@ -1,0 +1,20 @@
+Seasons:   0%|          | 0/27 [00:00<?, ?it/s]Seasons:   4%|▎         | 1/27 [00:05<02:34,  5.95s/it]Seasons:   7%|▋         | 2/27 [00:07<01:19,  3.17s/it]Seasons:  11%|█         | 3/27 [00:07<00:47,  1.99s/it]Seasons:  15%|█▍        | 4/27 [00:08<00:30,  1.33s/it]Seasons:  19%|█▊        | 5/27 [00:08<00:21,  1.04it/s]Seasons:  22%|██▏       | 6/27 [00:08<00:15,  1.37it/s]Seasons:  26%|██▌       | 7/27 [00:08<00:11,  1.73it/s]Seasons:  30%|██▉       | 8/27 [00:09<00:09,  2.09it/s]Seasons:  33%|███▎      | 9/27 [00:09<00:07,  2.41it/s]Seasons:  37%|███▋      | 10/27 [00:09<00:06,  2.70it/s]Seasons:  41%|████      | 11/27 [00:10<00:05,  2.94it/s]Seasons:  44%|████▍     | 12/27 [00:10<00:04,  3.06it/s]Seasons:  48%|████▊     | 13/27 [00:10<00:04,  3.19it/s]Seasons:  52%|█████▏    | 14/27 [00:10<00:03,  3.30it/s]Seasons:  56%|█████▌    | 15/27 [00:11<00:03,  3.38it/s]Seasons:  59%|█████▉    | 16/27 [00:11<00:03,  3.43it/s]Seasons:  63%|██████▎   | 17/27 [00:11<00:02,  3.47it/s]Seasons:  67%|██████▋   | 18/27 [00:11<00:02,  3.50it/s]Seasons:  70%|███████   | 19/27 [00:12<00:02,  3.54it/s]Seasons:  74%|███████▍  | 20/27 [00:12<00:01,  3.56it/s]Seasons:  78%|███████▊  | 21/27 [00:12<00:01,  3.52it/s]Seasons:  81%|████████▏ | 22/27 [00:13<00:01,  3.43it/s]Seasons:  85%|████████▌ | 23/27 [00:13<00:01,  3.34it/s]Seasons:  89%|████████▉ | 24/27 [00:13<00:00,  3.41it/s]Seasons:  93%|█████████▎| 25/27 [00:14<00:00,  3.40it/s]Seasons:  96%|█████████▋| 26/27 [00:14<00:00,  3.43it/s]Seasons: 100%|██████████| 27/27 [00:14<00:00,  3.44it/s]Seasons: 100%|██████████| 27/27 [00:14<00:00,  1.85it/s]
+Traceback (most recent call last):
+  File "/mnt/ffs24/home/smileytr/CMSE401_Project/year_processing.py", line 121, in <module>
+    result.to_csv(filename)
+  File "/mnt/home/smileytr/.local/lib/python3.11/site-packages/pandas/util/_decorators.py", line 333, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/mnt/home/smileytr/.local/lib/python3.11/site-packages/pandas/core/generic.py", line 3967, in to_csv
+    return DataFrameRenderer(formatter).to_csv(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/mnt/home/smileytr/.local/lib/python3.11/site-packages/pandas/io/formats/format.py", line 1014, in to_csv
+    csv_formatter.save()
+  File "/mnt/home/smileytr/.local/lib/python3.11/site-packages/pandas/io/formats/csvs.py", line 251, in save
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/mnt/home/smileytr/.local/lib/python3.11/site-packages/pandas/io/common.py", line 749, in get_handle
+    check_parent_directory(str(handle))
+  File "/mnt/home/smileytr/.local/lib/python3.11/site-packages/pandas/io/common.py", line 616, in check_parent_directory
+    raise OSError(rf"Cannot save file into a non-existent directory: '{parent}'")
+OSError: Cannot save file into a non-existent directory: '..data'
