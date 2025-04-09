@@ -72,7 +72,6 @@ def iterate_indices(indices, types, subtypes, results, players, teams, desc):
     return types, subtypes, results
 
 def process_group(gameId, group):
-    group = group[(~group["team"].isna()) & (group["type"] != "Substitution")].copy()
     indices = np.arange(0, len(group), 1)
     h_pts, a_pts = iterate_indices_pts(indices, np.array(group["h_pts"]), np.array(group["a_pts"]))
     types, subtypes, results = iterate_indices(indices, group["type"], group['subtype'],  group["result"], group["player"], group["team"], group["desc"])
