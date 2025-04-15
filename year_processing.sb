@@ -10,6 +10,5 @@
 #SBATCH --exclusive                        # Ensures full node usage (optional)
 
 mkdir -p ./data
-rm logs/*
 python year_processing.py
 

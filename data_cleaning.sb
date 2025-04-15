@@ -1,0 +1,14 @@
+#!/bin/bash --login
+#SBATCH --job-name=data_clean
+#SBATCH --output=logs/data_clean.out     # Save stdout to log file
+#SBATCH --error=logs/data_clean.err      # Save stderr to log file
+#SBATCH --mem=64G                          # Adjust if needed
+#SBATCH --time=04:00:00                    # Adjust walltime as needed
+
+rm logs/* 
+
+# Submit year_processing job first and capture its Job ID
+jid=$(sbatch ./year_processing.sb | awk '{print $4}')
+
+# Submit pbp_processing with a dependency on successful completion of year_processing
+sbatch --dependency=afterok:$jid ./pbp_processing.sb
