@@ -1,0 +1,2282 @@
+{
+  "GSW": {
+    "Home": {
+      "2PT Blocked": {
+        "Defensive Rebound": 0.032601033075034716,
+        "Inbound": 0.03345539640827477,
+        "Steal": 0.033752607193826244
+      },
+      "2PT Made": {
+        "Defensive Rebound": 0.2691810750395527,
+        "Inbound": 0.26235340845201727,
+        "Steal": 0.35336302166689526
+      },
+      "2PT Missed": {
+        "Defensive Rebound": 0.15950316388955485,
+        "Inbound": 0.1775154028216872,
+        "Steal": 0.11095029831530126
+      },
+      "3PT Made": {
+        "Defensive Rebound": 0.1206932794028098,
+        "Inbound": 0.11527531774116917,
+        "Steal": 0.10347648745059927
+      },
+      "3PT Missed": {
+        "Defensive Rebound": 0.15369698059858683,
+        "Inbound": 0.15229583009307152,
+        "Steal": 0.12847040619142688
+      },
+      "Free Throw": {
+        "Defensive Rebound": 0.11241560932667069,
+        "Inbound": 0.11531700032524136,
+        "Steal": 0.12715290108006383
+      },
+      "Turnover": {
+        "Defensive Rebound": 0.14743366432775215,
+        "Inbound": 0.14069125641291227,
+        "Steal": 0.13962959884210438
+      }
+    },
+    "Away": {
+      "2PT Blocked": {
+        "Defensive Rebound": 0.03268156621510496,
+        "Inbound": 0.03384676059172846,
+        "Steal": 0.031717463776916616
+      },
+      "2PT Made": {
+        "Defensive Rebound": 0.26187384157041654,
+        "Inbound": 0.26194341190502285,
+        "Steal": 0.3372108016317895
+      },
+      "2PT Missed": {
+        "Defensive Rebound": 0.16310960732556892,
+        "Inbound": 0.17657300694077044,
+        "Steal": 0.12571197050294747
+      },
+      "3PT Made": {
+        "Defensive Rebound": 0.11927631962200627,
+        "Inbound": 0.11691379107833472,
+        "Steal": 0.11420452278096638
+      },
+      "3PT Missed": {
+        "Defensive Rebound": 0.15706909271329844,
+        "Inbound": 0.158571732235267,
+        "Steal": 0.12935332989209633
+      },
+      "Free Throw": {
+        "Defensive Rebound": 0.11361956467788693,
+        "Inbound": 0.11284148249326795,
+        "Steal": 0.13291716870423684
+      },
+      "Turnover": {
+        "Defensive Rebound": 0.1483942933399643,
+        "Inbound": 0.13558855417356833,
+        "Steal": 0.12580064638693872
+      }
+    }
+  },
+  "MEM": {
+    "Home": {
+      "2PT Blocked": {
+        "Defensive Rebound": 0.03760791797986919,
+        "Inbound": 0.03838161130509677,
+        "Steal": 0.03341473006123486
+      },
+      "2PT Made": {
+        "Defensive Rebound": 0.27179352377720595,
+        "Inbound": 0.26859361159616824,
+        "Steal": 0.3661544128762765
+      },
+      "2PT Missed": {
+        "Defensive Rebound": 0.16921834730418517,
+        "Inbound": 0.18192614054552417,
+        "Steal": 0.12585899566453257
+      },
+      "3PT Made": {
+        "Defensive Rebound": 0.10394988730144164,
+        "Inbound": 0.10703658976922406,
+        "Steal": 0.08723330163294765
+      },
+      "3PT Missed": {
+        "Defensive Rebound": 0.14517320196439185,
+        "Inbound": 0.14666170439469714,
+        "Steal": 0.10990892667735999
+      },
+      "Free Throw": {
+        "Defensive Rebound": 0.12171939521118944,
+        "Inbound": 0.12107304246483355,
+        "Steal": 0.13898165203688062
+      },
+      "Turnover": {
+        "Defensive Rebound": 0.14804593190538132,
+        "Inbound": 0.13384551775615966,
+        "Steal": 0.13477015221936117
+      }
+    },
+    "Away": {
+      "2PT Blocked": {
+        "Defensive Rebound": 0.03578618171718593,
+        "Inbound": 0.036076241682814245,
+        "Steal": 0.03450744886704983
+      },
+      "2PT Made": {
+        "Defensive Rebound": 0.27296531126445917,
+        "Inbound": 0.27062878653149514,
+        "Steal": 0.3785636345093794
+      },
+      "2PT Missed": {
+        "Defensive Rebound": 0.16582255277164168,
+        "Inbound": 0.18695079123739086,
+        "Steal": 0.12562401759047165
+      },
+      "3PT Made": {
+        "Defensive Rebound": 0.10473337995836587,
+        "Inbound": 0.09818813422032067,
+        "Steal": 0.0933836250468601
+      },
+      "3PT Missed": {
+        "Defensive Rebound": 0.14333289007104125,
+        "Inbound": 0.14937098609885446,
+        "Steal": 0.10440421724093887
+      },
+      "Free Throw": {
+        "Defensive Rebound": 0.12499157037475946,
+        "Inbound": 0.1207083428012171,
+        "Steal": 0.1403382025755907
+      },
+      "Turnover": {
+        "Defensive Rebound": 0.1500765250601901,
+        "Inbound": 0.13518436193489733,
+        "Steal": 0.12151127392429557
+      }
+    }
+  },
+  "LAC": {
+    "Home": {
+      "2PT Blocked": {
+        "Defensive Rebound": 0.03264615166306778,
+        "Inbound": 0.032411669520869255,
+        "Steal": 0.029791215904849854
+      },
+      "2PT Made": {
+        "Defensive Rebound": 0.27847604033168094,
+        "Inbound": 0.26824044563447563,
+        "Steal": 0.34856380823146016
+      },
+      "2PT Missed": {
+        "Defensive Rebound": 0.1690674104085344,
+        "Inbound": 0.18857814951584567,
+        "Steal": 0.12148513396177635
+      },
+      "3PT Made": {
+        "Defensive Rebound": 0.11041186966648428,
+        "Inbound": 0.10833017007349584,
+        "Steal": 0.09908999447933295
+      },
+      "3PT Missed": {
+        "Defensive Rebound": 0.14463311839816653,
+        "Inbound": 0.14816985662811905,
+        "Steal": 0.12194998501305992
+      },
+      "Free Throw": {
+        "Defensive Rebound": 0.12436852167427453,
+        "Inbound": 0.12393875460432416,
+        "Steal": 0.15173417882481485
+      },
+      "Turnover": {
+        "Defensive Rebound": 0.13770774832786506,
+        "Inbound": 0.1278434791952454,
+        "Steal": 0.12399526100530028
+      }
+    },
+    "Away": {
+      "2PT Blocked": {
+        "Defensive Rebound": 0.03240098087760613,
+        "Inbound": 0.030417806001454422,
+        "Steal": 0.03733562156167611
+      },
+      "2PT Made": {
+        "Defensive Rebound": 0.27772243626968907,
+        "Inbound": 0.2766156444443981,
+        "Steal": 0.34644354708840613
+      },
+      "2PT Missed": {
+        "Defensive Rebound": 0.1664916160395738,
+        "Inbound": 0.18709336058479747,
+        "Steal": 0.1222016222533938
+      },
+      "3PT Made": {
+        "Defensive Rebound": 0.11084198909353102,
+        "Inbound": 0.11035624995770404,
+        "Steal": 0.08605572027729436
+      },
+      "3PT Missed": {
+        "Defensive Rebound": 0.1480577477941379,
+        "Inbound": 0.14854899355764317,
+        "Steal": 0.12336401682878448
+      },
+      "Free Throw": {
+        "Defensive Rebound": 0.12448065318393212,
+        "Inbound": 0.12136981753785789,
+        "Steal": 0.14884699238430482
+      },
+      "Turnover": {
+        "Defensive Rebound": 0.138071064109887,
+        "Inbound": 0.12270375969461399,
+        "Steal": 0.13150359585326465
+      }
+    }
+  },
+  "CHA": {
+    "Home": {
+      "2PT Blocked": {
+        "Defensive Rebound": 0.04280424283803278,
+        "Inbound": 0.040549170631184746,
+        "Steal": 0.05047325492115994
+      },
+      "2PT Made": {
+        "Defensive Rebound": 0.26080014620898495,
+        "Inbound": 0.25898642305170194,
+        "Steal": 0.3648262383593191
+      },
+      "2PT Missed": {
+        "Defensive Rebound": 0.17176743944559034,
+        "Inbound": 0.1849702010866601,
+        "Steal": 0.1254643238074567
+      },
+      "3PT Made": {
+        "Defensive Rebound": 0.11730551459737096,
+        "Inbound": 0.11139490763363544,
+        "Steal": 0.10001025975618719
+      },
+      "3PT Missed": {
+        "Defensive Rebound": 0.16476978487010374,
+        "Inbound": 0.1705784082312788,
+        "Steal": 0.11353117564236037
+      },
+      "Free Throw": {
+        "Defensive Rebound": 0.114376111365456,
+        "Inbound": 0.10559365528244868,
+        "Steal": 0.12115176891078204
+      },
+      "Turnover": {
+        "Defensive Rebound": 0.12603370378255024,
+        "Inbound": 0.12475062257925146,
+        "Steal": 0.12357565111569463
+      }
+    },
+    "Away": {
+      "2PT Blocked": {
+        "Defensive Rebound": 0.037478295752598575,
+        "Inbound": 0.03484212200366152,
+        "Steal": 0.03646683065007909
+      },
+      "2PT Made": {
+        "Defensive Rebound": 0.2593145805842885,
+        "Inbound": 0.2549077208569742,
+        "Steal": 0.3451912366989016
+      },
+      "2PT Missed": {
+        "Defensive Rebound": 0.1716605329318995,
+        "Inbound": 0.19137063220925768,
+        "Steal": 0.12344894593159565
+      },
+      "3PT Made": {
+        "Defensive Rebound": 0.11233455553906314,
+        "Inbound": 0.11723270953844728,
+        "Steal": 0.10923176855546671
+      },
+      "3PT Missed": {
+        "Defensive Rebound": 0.16402395981002874,
+        "Inbound": 0.16659502156589998,
+        "Steal": 0.13955251359342688
+      },
+      "Free Throw": {
+        "Defensive Rebound": 0.11656038954697853,
+        "Inbound": 0.11052412423459074,
+        "Steal": 0.12681020061758885
+      },
+      "Turnover": {
+        "Defensive Rebound": 0.1357373473593919,
+        "Inbound": 0.12184282364637306,
+        "Steal": 0.11842131097048504
+      }
+    }
+  },
+  "BKN": {
+    "Home": {
+      "2PT Blocked": {
+        "Defensive Rebound": 0.0320734384143857,
+        "Inbound": 0.0347765573055473,
+        "Steal": 0.034209844076951136
+      },
+      "2PT Made": {
+        "Defensive Rebound": 0.27537387421579423,
+        "Inbound": 0.26862870954170215,
+        "Steal": 0.3534834387623549
+      },
+      "2PT Missed": {
+        "Defensive Rebound": 0.1653871592704112,
+        "Inbound": 0.18364171629093423,
+        "Steal": 0.13223016016134934
+      },
+      "3PT Made": {
+        "Defensive Rebound": 0.10864320116398601,
+        "Inbound": 0.11051258023240744,
+        "Steal": 0.08299974618205647
+      },
+      "3PT Missed": {
+        "Defensive Rebound": 0.15626148108954294,
+        "Inbound": 0.15202391503545087,
+        "Steal": 0.12474485682450648
+      },
+      "Free Throw": {
+        "Defensive Rebound": 0.1195079627751074,
+        "Inbound": 0.11319868929708751,
+        "Steal": 0.13997192248492887
+      },
+      "Turnover": {
+        "Defensive Rebound": 0.14057934353607635,
+        "Inbound": 0.13435656362941967,
+        "Steal": 0.1289139449636959
+      }
+    },
+    "Away": {
+      "2PT Blocked": {
+        "Defensive Rebound": 0.03682677268884969,
+        "Inbound": 0.03705362487347379,
+        "Steal": 0.02718718069411958
+      },
+      "2PT Made": {
+        "Defensive Rebound": 0.27221577667284613,
+        "Inbound": 0.26844662983112566,
+        "Steal": 0.3649024495054944
+      },
+      "2PT Missed": {
+        "Defensive Rebound": 0.1603439394670934,
+        "Inbound": 0.18070622486144197,
+        "Steal": 0.12306467834125207
+      },
+      "3PT Made": {
+        "Defensive Rebound": 0.11574644091997133,
+        "Inbound": 0.10902001006749788,
+        "Steal": 0.09880368876240238
+      },
+      "3PT Missed": {
+        "Defensive Rebound": 0.15322618705080177,
+        "Inbound": 0.15831317802319014,
+        "Steal": 0.12150264174194329
+      },
+      "Free Throw": {
+        "Defensive Rebound": 0.11765426694416317,
+        "Inbound": 0.11598032590304226,
+        "Steal": 0.1289733579436064
+      },
+      "Turnover": {
+        "Defensive Rebound": 0.14140092517440647,
+        "Inbound": 0.12758219194685178,
+        "Steal": 0.13506600301118193
+      }
+    }
+  },
+  "LAL": {
+    "Home": {
+      "2PT Blocked": {
+        "Defensive Rebound": 0.03372811975047884,
+        "Inbound": 0.034721083718312264,
+        "Steal": 0.039253854767207316
+      },
+      "2PT Made": {
+        "Defensive Rebound": 0.27982499520007903,
+        "Inbound": 0.2755640444021525,
+        "Steal": 0.36068004917582686
+      },
+      "2PT Missed": {
+        "Defensive Rebound": 0.16442720601200242,
+        "Inbound": 0.1845631957297667,
+        "Steal": 0.12529610416151846
+      },
+      "3PT Made": {
+        "Defensive Rebound": 0.10173106759728337,
+        "Inbound": 0.1004504205504534,
+        "Steal": 0.07443536333278446
+      },
+      "3PT Missed": {
+        "Defensive Rebound": 0.14936846780833207,
+        "Inbound": 0.15152244315735705,
+        "Steal": 0.1292725542707841
+      },
+      "Free Throw": {
+        "Defensive Rebound": 0.12093348556363967,
+        "Inbound": 0.11559117585660715,
+        "Steal": 0.1363600450951289
+      },
+      "Turnover": {
+        "Defensive Rebound": 0.14698468358873457,
+        "Inbound": 0.13540197992658393,
+        "Steal": 0.1307534890701607
+      }
+    },
+    "Away": {
+      "2PT Blocked": {
+        "Defensive Rebound": 0.034225513624200815,
+        "Inbound": 0.03374175012588191,
+        "Steal": 0.0328509017300822
+      },
+      "2PT Made": {
+        "Defensive Rebound": 0.27839336295802797,
+        "Inbound": 0.2634626591518519,
+        "Steal": 0.38165769900947893
+      },
+      "2PT Missed": {
+        "Defensive Rebound": 0.16549876007862038,
+        "Inbound": 0.18901449079240226,
+        "Steal": 0.11186431879113075
+      },
+      "3PT Made": {
+        "Defensive Rebound": 0.10733370112155159,
+        "Inbound": 0.1024345492555416,
+        "Steal": 0.09196424161521806
+      },
+      "3PT Missed": {
+        "Defensive Rebound": 0.14446234595593743,
+        "Inbound": 0.15167135226292525,
+        "Steal": 0.10915494330209993
+      },
+      "Free Throw": {
+        "Defensive Rebound": 0.12590190872656037,
+        "Inbound": 0.11741461448284954,
+        "Steal": 0.13901661693825051
+      },
+      "Turnover": {
+        "Defensive Rebound": 0.14203331941384317,
+        "Inbound": 0.13868952447820723,
+        "Steal": 0.13146435001244391
+      }
+    }
+  },
+  "NYK": {
+    "Home": {
+      "2PT Blocked": {
+        "Defensive Rebound": 0.03385059452367765,
+        "Inbound": 0.03601141730989935,
+        "Steal": 0.03355799035198002
+      },
+      "2PT Made": {
+        "Defensive Rebound": 0.276366145473109,
+        "Inbound": 0.27410786199376197,
+        "Steal": 0.36013579409238483
+      },
+      "2PT Missed": {
+        "Defensive Rebound": 0.16768861457028586,
+        "Inbound": 0.1904481927451735,
+        "Steal": 0.1333482409820601
+      },
+      "3PT Made": {
+        "Defensive Rebound": 0.1082584896305703,
+        "Inbound": 0.10391923743030626,
+        "Steal": 0.0895904890871415
+      },
+      "3PT Missed": {
+        "Defensive Rebound": 0.1484705557976143,
+        "Inbound": 0.14855997105143678,
+        "Steal": 0.11500971027927841
+      },
+      "Free Throw": {
+        "Defensive Rebound": 0.11818365732803582,
+        "Inbound": 0.11474005257712366,
+        "Steal": 0.12624955456135803
+      },
+      "Turnover": {
+        "Defensive Rebound": 0.14424612126709072,
+        "Inbound": 0.12966240061759293,
+        "Steal": 0.1388969793326569
+      }
+    },
+    "Away": {
+      "2PT Blocked": {
+        "Defensive Rebound": 0.03452518118937513,
+        "Inbound": 0.036166994697944675,
+        "Steal": 0.038783240759758135
+      },
+      "2PT Made": {
+        "Defensive Rebound": 0.2755102086463497,
+        "Inbound": 0.26764007411865876,
+        "Steal": 0.3684118090288252
+      },
+      "2PT Missed": {
+        "Defensive Rebound": 0.1815713083353325,
+        "Inbound": 0.19809385925472306,
+        "Steal": 0.14411062085322637
+      },
+      "3PT Made": {
+        "Defensive Rebound": 0.10646378581845795,
+        "Inbound": 0.10078031986434513,
+        "Steal": 0.0820094480041737
+      },
+      "3PT Missed": {
+        "Defensive Rebound": 0.14319572071998862,
+        "Inbound": 0.14782751612734438,
+        "Steal": 0.10745576705667963
+      },
+      "Free Throw": {
+        "Defensive Rebound": 0.11931106815460955,
+        "Inbound": 0.1198818103202854,
+        "Steal": 0.1306525856772752
+      },
+      "Turnover": {
+        "Defensive Rebound": 0.13625831945661898,
+        "Inbound": 0.12718893993598485,
+        "Steal": 0.12581158471250242
+      }
+    }
+  },
+  "BOS": {
+    "Home": {
+      "2PT Blocked": {
+        "Defensive Rebound": 0.035579619831222785,
+        "Inbound": 0.035424417510807854,
+        "Steal": 0.03515333804125783
+      },
+      "2PT Made": {
+        "Defensive Rebound": 0.26482900337972237,
+        "Inbound": 0.26227638679184456,
+        "Steal": 0.36604239696397817
+      },
+      "2PT Missed": {
+        "Defensive Rebound": 0.16764750121847355,
+        "Inbound": 0.181062142157782,
+        "Steal": 0.13023911114773684
+      },
+      "3PT Made": {
+        "Defensive Rebound": 0.11169007648979949,
+        "Inbound": 0.11638183994209281,
+        "Steal": 0.10031554966109607
+      },
+      "3PT Missed": {
+        "Defensive Rebound": 0.15607605264371477,
+        "Inbound": 0.15759513577447418,
+        "Steal": 0.11791399675581907
+      },
+      "Free Throw": {
+        "Defensive Rebound": 0.11627535441173972,
+        "Inbound": 0.11388166302474304,
+        "Steal": 0.13063875500057606
+      },
+      "Turnover": {
+        "Defensive Rebound": 0.14464130318846918,
+        "Inbound": 0.12948846218516302,
+        "Steal": 0.11782013688426196
+      }
+    },
+    "Away": {
+      "2PT Blocked": {
+        "Defensive Rebound": 0.02963255228725333,
+        "Inbound": 0.03160741186967076,
+        "Steal": 0.03152477274104422
+      },
+      "2PT Made": {
+        "Defensive Rebound": 0.2690051461357612,
+        "Inbound": 0.2664059904011879,
+        "Steal": 0.3662249772642146
+      },
+      "2PT Missed": {
+        "Defensive Rebound": 0.1634328467370876,
+        "Inbound": 0.18152230385061321,
+        "Steal": 0.12270822585186794
+      },
+      "3PT Made": {
+        "Defensive Rebound": 0.11480555330462267,
+        "Inbound": 0.11313986019449102,
+        "Steal": 0.08859945754761617
+      },
+      "3PT Missed": {
+        "Defensive Rebound": 0.16265048932331677,
+        "Inbound": 0.1625896231258062,
+        "Steal": 0.12126038893492065
+      },
+      "Free Throw": {
+        "Defensive Rebound": 0.11781885534680417,
+        "Inbound": 0.11269904042225587,
+        "Steal": 0.13454366354842323
+      },
+      "Turnover": {
+        "Defensive Rebound": 0.14007480520123378,
+        "Inbound": 0.12839230089894788,
+        "Steal": 0.13071537278676884
+      }
+    }
+  },
+  "PHX": {
+    "Home": {
+      "2PT Blocked": {
+        "Defensive Rebound": 0.032249594500924225,
+        "Inbound": 0.03422729471521316,
+        "Steal": 0.03580632538350331
+      },
+      "2PT Made": {
+        "Defensive Rebound": 0.2836108859092904,
+        "Inbound": 0.26646571798561,
+        "Steal": 0.3929836994868427
+      },
+      "2PT Missed": {
+        "Defensive Rebound": 0.16022449963363822,
+        "Inbound": 0.18610096470025822,
+        "Steal": 0.10479841800121334
+      },
+      "3PT Made": {
+        "Defensive Rebound": 0.10662627795604854,
+        "Inbound": 0.10531140565643099,
+        "Steal": 0.08948139372359414
+      },
+      "3PT Missed": {
+        "Defensive Rebound": 0.14954125287299846,
+        "Inbound": 0.14988682178421286,
+        "Steal": 0.11517565163564333
+      },
+      "Free Throw": {
+        "Defensive Rebound": 0.12237652091196309,
+        "Inbound": 0.11746269126050564,
+        "Steal": 0.1303840379611574
+      },
+      "Turnover": {
+        "Defensive Rebound": 0.14256349722734588,
+        "Inbound": 0.137428477295352,
+        "Steal": 0.1278893069068719
+      }
+    },
+    "Away": {
+      "2PT Blocked": {
+        "Defensive Rebound": 0.03192441901370132,
+        "Inbound": 0.03191281193937389,
+        "Steal": 0.04026568391586316
+      },
+      "2PT Made": {
+        "Defensive Rebound": 0.28341337497571517,
+        "Inbound": 0.2756117330416259,
+        "Steal": 0.3700441705015459
+      },
+      "2PT Missed": {
+        "Defensive Rebound": 0.1646035940361204,
+        "Inbound": 0.18786227549729184,
+        "Steal": 0.1052831095736223
+      },
+      "3PT Made": {
+        "Defensive Rebound": 0.1020958618847149,
+        "Inbound": 0.10062358468166814,
+        "Steal": 0.08705645252197247
+      },
+      "3PT Missed": {
+        "Defensive Rebound": 0.15025360480663047,
+        "Inbound": 0.14209386946942498,
+        "Steal": 0.11500987309136092
+      },
+      "Free Throw": {
+        "Defensive Rebound": 0.1231087671083065,
+        "Inbound": 0.12033334453466282,
+        "Steal": 0.14275208833325045
+      },
+      "Turnover": {
+        "Defensive Rebound": 0.1421521736779067,
+        "Inbound": 0.13825615901805427,
+        "Steal": 0.13568492306547564
+      }
+    }
+  },
+  "ORL": {
+    "Home": {
+      "2PT Blocked": {
+        "Defensive Rebound": 0.03262417083782659,
+        "Inbound": 0.03724991468342665,
+        "Steal": 0.031709035836167104
+      },
+      "2PT Made": {
+        "Defensive Rebound": 0.2782680999835027,
+        "Inbound": 0.26411333747856747,
+        "Steal": 0.3620646159145073
+      },
+      "2PT Missed": {
+        "Defensive Rebound": 0.17353573638665346,
+        "Inbound": 0.19500485757717792,
+        "Steal": 0.13472658859734665
+      },
+      "3PT Made": {
+        "Defensive Rebound": 0.10828088698143998,
+        "Inbound": 0.10482686954974242,
+        "Steal": 0.09585873277499489
+      },
+      "3PT Missed": {
+        "Defensive Rebound": 0.15289602375807226,
+        "Inbound": 0.15372834120927392,
+        "Steal": 0.12168133285784502
+      },
+      "Free Throw": {
+        "Defensive Rebound": 0.11571100973322121,
+        "Inbound": 0.10745454772957068,
+        "Steal": 0.13302520794533682
+      },
+      "Turnover": {
+        "Defensive Rebound": 0.13624788640990732,
+        "Inbound": 0.13438154265571894,
+        "Steal": 0.11767409726915183
+      }
+    },
+    "Away": {
+      "2PT Blocked": {
+        "Defensive Rebound": 0.03630780210537005,
+        "Inbound": 0.03267696546512135,
+        "Steal": 0.03698060576861167
+      },
+      "2PT Made": {
+        "Defensive Rebound": 0.27501049341606293,
+        "Inbound": 0.2741921496085872,
+        "Steal": 0.3632905837900353
+      },
+      "2PT Missed": {
+        "Defensive Rebound": 0.16416273582414054,
+        "Inbound": 0.19421378414010526,
+        "Steal": 0.12935055258993386
+      },
+      "3PT Made": {
+        "Defensive Rebound": 0.11129835463847126,
+        "Inbound": 0.10286289467224774,
+        "Steal": 0.08833189553275397
+      },
+      "3PT Missed": {
+        "Defensive Rebound": 0.159180815756887,
+        "Inbound": 0.1542245368955464,
+        "Steal": 0.1221699963834557
+      },
+      "Free Throw": {
+        "Defensive Rebound": 0.11672133488495437,
+        "Inbound": 0.10801431311543544,
+        "Steal": 0.1371946681952199
+      },
+      "Turnover": {
+        "Defensive Rebound": 0.13426927364881902,
+        "Inbound": 0.12996929305177124,
+        "Steal": 0.11804093135353955
+      }
+    }
+  },
+  "CHI": {
+    "Home": {
+      "2PT Blocked": {
+        "Defensive Rebound": 0.037451277292681266,
+        "Inbound": 0.03783841576552429,
+        "Steal": 0.03169553417494543
+      },
+      "2PT Made": {
+        "Defensive Rebound": 0.2762253045388376,
+        "Inbound": 0.27551178062726245,
+        "Steal": 0.37371400639233815
+      },
+      "2PT Missed": {
+        "Defensive Rebound": 0.18220568765126421,
+        "Inbound": 0.19613167065656062,
+        "Steal": 0.13106502310952706
+      },
+      "3PT Made": {
+        "Defensive Rebound": 0.1061411384197888,
+        "Inbound": 0.10263468075892707,
+        "Steal": 0.08443811923749533
+      },
+      "3PT Missed": {
+        "Defensive Rebound": 0.14250224123644584,
+        "Inbound": 0.14664633672342497,
+        "Steal": 0.11050615886723995
+      },
+      "Free Throw": {
+        "Defensive Rebound": 0.11405797852509351,
+        "Inbound": 0.1037961983992604,
+        "Steal": 0.14147970873130739
+      },
+      "Turnover": {
+        "Defensive Rebound": 0.13879586984502215,
+        "Inbound": 0.1344656071062253,
+        "Steal": 0.1250216133560516
+      }
+    },
+    "Away": {
+      "2PT Blocked": {
+        "Defensive Rebound": 0.03393149998741895,
+        "Inbound": 0.0369521784953905,
+        "Steal": 0.0417266896609672
+      },
+      "2PT Made": {
+        "Defensive Rebound": 0.28461457363664533,
+        "Inbound": 0.2809606195595453,
+        "Steal": 0.36743446918478206
+      },
+      "2PT Missed": {
+        "Defensive Rebound": 0.1725575470994324,
+        "Inbound": 0.19415818250151223,
+        "Steal": 0.11352130914366965
+      },
+      "3PT Made": {
+        "Defensive Rebound": 0.10549961462861603,
+        "Inbound": 0.10234874190183367,
+        "Steal": 0.09274270217230668
+      },
+      "3PT Missed": {
+        "Defensive Rebound": 0.13847222115840574,
+        "Inbound": 0.14712944870893765,
+        "Steal": 0.11103242172141561
+      },
+      "Free Throw": {
+        "Defensive Rebound": 0.11918370801810843,
+        "Inbound": 0.10466479656198459,
+        "Steal": 0.15095999540872043
+      },
+      "Turnover": {
+        "Defensive Rebound": 0.1434821376299605,
+        "Inbound": 0.1315003607270142,
+        "Steal": 0.11821370664699205
+      }
+    }
+  },
+  "IND": {
+    "Home": {
+      "2PT Blocked": {
+        "Defensive Rebound": 0.035716662178421,
+        "Inbound": 0.0369383597212946,
+        "Steal": 0.03440138343472936
+      },
+      "2PT Made": {
+        "Defensive Rebound": 0.2818515347115523,
+        "Inbound": 0.28418544335471513,
+        "Steal": 0.37440954630517514
+      },
+      "2PT Missed": {
+        "Defensive Rebound": 0.17099609278350042,
+        "Inbound": 0.1907753845198762,
+        "Steal": 0.130158007075114
+      },
+      "3PT Made": {
+        "Defensive Rebound": 0.10282255376270177,
+        "Inbound": 0.10041216226377202,
+        "Steal": 0.08818861843281085
+      },
+      "3PT Missed": {
+        "Defensive Rebound": 0.14433819321681846,
+        "Inbound": 0.1427240332268833,
+        "Steal": 0.11924135474616496
+      },
+      "Free Throw": {
+        "Defensive Rebound": 0.12225320402438769,
+        "Inbound": 0.11132804533833288,
+        "Steal": 0.1272931716262931
+      },
+      "Turnover": {
+        "Defensive Rebound": 0.1393539676257189,
+        "Inbound": 0.13086258714461138,
+        "Steal": 0.12067569521089369
+      }
+    },
+    "Away": {
+      "2PT Blocked": {
+        "Defensive Rebound": 0.03690664709500282,
+        "Inbound": 0.035556296735268215,
+        "Steal": 0.041030327349366964
+      },
+      "2PT Made": {
+        "Defensive Rebound": 0.28072993713615096,
+        "Inbound": 0.270037342445417,
+        "Steal": 0.3560718502797466
+      },
+      "2PT Missed": {
+        "Defensive Rebound": 0.17614967028740683,
+        "Inbound": 0.19196878057373415,
+        "Steal": 0.12387059583302061
+      },
+      "3PT Made": {
+        "Defensive Rebound": 0.10652212354620247,
+        "Inbound": 0.10243632454164074,
+        "Steal": 0.09539768920267763
+      },
+      "3PT Missed": {
+        "Defensive Rebound": 0.1382433987461186,
+        "Inbound": 0.1465420072080351,
+        "Steal": 0.1134655874932595
+      },
+      "Free Throw": {
+        "Defensive Rebound": 0.1214453561824028,
+        "Inbound": 0.11309600439649822,
+        "Steal": 0.124636077293663
+      },
+      "Turnover": {
+        "Defensive Rebound": 0.13778091948750865,
+        "Inbound": 0.13754017978920735,
+        "Steal": 0.1409192650223097
+      }
+    }
+  },
+  "DEN": {
+    "Home": {
+      "2PT Blocked": {
+        "Defensive Rebound": 0.03213146425696105,
+        "Inbound": 0.03181849423360347,
+        "Steal": 0.037026340037466264
+      },
+      "2PT Made": {
+        "Defensive Rebound": 0.28461973420165787,
+        "Inbound": 0.27725661809154883,
+        "Steal": 0.37027765906181065
+      },
+      "2PT Missed": {
+        "Defensive Rebound": 0.15955152910889758,
+        "Inbound": 0.18015970309914925,
+        "Steal": 0.10835302671969335
+      },
+      "3PT Made": {
+        "Defensive Rebound": 0.10686261507796892,
+        "Inbound": 0.10806281146861155,
+        "Steal": 0.09849126087688032
+      },
+      "3PT Missed": {
+        "Defensive Rebound": 0.15057826839828303,
+        "Inbound": 0.15093304193341706,
+        "Steal": 0.11621626831926896
+      },
+      "Free Throw": {
+        "Defensive Rebound": 0.12542521386200042,
+        "Inbound": 0.11775130984217612,
+        "Steal": 0.1385232767576954
+      },
+      "Turnover": {
+        "Defensive Rebound": 0.13847070272036321,
+        "Inbound": 0.13169708069391714,
+        "Steal": 0.12707120168937808
+      }
+    },
+    "Away": {
+      "2PT Blocked": {
+        "Defensive Rebound": 0.03891341017392559,
+        "Inbound": 0.034717609263442896,
+        "Steal": 0.04377256714145428
+      },
+      "2PT Made": {
+        "Defensive Rebound": 0.2828485675391733,
+        "Inbound": 0.28536825558085166,
+        "Steal": 0.361065826599124
+      },
+      "2PT Missed": {
+        "Defensive Rebound": 0.15228527672096304,
+        "Inbound": 0.17810650589228333,
+        "Steal": 0.11579819351631962
+      },
+      "3PT Made": {
+        "Defensive Rebound": 0.11354309152488776,
+        "Inbound": 0.10713654965426186,
+        "Steal": 0.0947619738961315
+      },
+      "3PT Missed": {
+        "Defensive Rebound": 0.15036613919896746,
+        "Inbound": 0.15211665383659556,
+        "Steal": 0.13427523634144423
+      },
+      "Free Throw": {
+        "Defensive Rebound": 0.11163318822672941,
+        "Inbound": 0.1116307860644609,
+        "Steal": 0.13184564302247945
+      },
+      "Turnover": {
+        "Defensive Rebound": 0.1474000023906047,
+        "Inbound": 0.12826851166091388,
+        "Steal": 0.1122930559774704
+      }
+    }
+  },
+  "POR": {
+    "Home": {
+      "2PT Blocked": {
+        "Defensive Rebound": 0.03449632154084828,
+        "Inbound": 0.03578124386669777,
+        "Steal": 0.043483626412704326
+      },
+      "2PT Made": {
+        "Defensive Rebound": 0.26895106436121274,
+        "Inbound": 0.26732669190659325,
+        "Steal": 0.3312855494569935
+      },
+      "2PT Missed": {
+        "Defensive Rebound": 0.17404805519868963,
+        "Inbound": 0.18986825028427293,
+        "Steal": 0.11653997081790061
+      },
+      "3PT Made": {
+        "Defensive Rebound": 0.1157930659044741,
+        "Inbound": 0.11426859414561186,
+        "Steal": 0.11415152150555491
+      },
+      "3PT Missed": {
+        "Defensive Rebound": 0.15200903370895835,
+        "Inbound": 0.15629196699657677,
+        "Steal": 0.12827135335989112
+      },
+      "Free Throw": {
+        "Defensive Rebound": 0.12003079370138449,
+        "Inbound": 0.11363994728200501,
+        "Steal": 0.12754122354470138
+      },
+      "Turnover": {
+        "Defensive Rebound": 0.13191268823555058,
+        "Inbound": 0.12028448144721747,
+        "Steal": 0.13624986851790283
+      }
+    },
+    "Away": {
+      "2PT Blocked": {
+        "Defensive Rebound": 0.0352636690062936,
+        "Inbound": 0.037014042663540164,
+        "Steal": 0.036207871259883936
+      },
+      "2PT Made": {
+        "Defensive Rebound": 0.26456918390778605,
+        "Inbound": 0.269196522407487,
+        "Steal": 0.34685723843606314
+      },
+      "2PT Missed": {
+        "Defensive Rebound": 0.17182042804960007,
+        "Inbound": 0.1843260489888653,
+        "Steal": 0.11955156797054592
+      },
+      "3PT Made": {
+        "Defensive Rebound": 0.11137131447494898,
+        "Inbound": 0.11059581819097106,
+        "Steal": 0.1006935301577781
+      },
+      "3PT Missed": {
+        "Defensive Rebound": 0.1594304769552983,
+        "Inbound": 0.15728444541572675,
+        "Steal": 0.1360702263032008
+      },
+      "Free Throw": {
+        "Defensive Rebound": 0.12179089475158372,
+        "Inbound": 0.11487961828298582,
+        "Steal": 0.14325472787998156
+      },
+      "Turnover": {
+        "Defensive Rebound": 0.13289867745520503,
+        "Inbound": 0.12330320644236317,
+        "Steal": 0.11335629321662746
+      }
+    }
+  },
+  "ATL": {
+    "Home": {
+      "2PT Blocked": {
+        "Defensive Rebound": 0.0349697882166806,
+        "Inbound": 0.03437743043360487,
+        "Steal": 0.03699777891700896
+      },
+      "2PT Made": {
+        "Defensive Rebound": 0.2684625690468926,
+        "Inbound": 0.2690740320207656,
+        "Steal": 0.35709422419446807
+      },
+      "2PT Missed": {
+        "Defensive Rebound": 0.1558587587403434,
+        "Inbound": 0.17214488867154226,
+        "Steal": 0.11242015012508634
+      },
+      "3PT Made": {
+        "Defensive Rebound": 0.1181219139705544,
+        "Inbound": 0.11550832742444285,
+        "Steal": 0.10468018476422425
+      },
+      "3PT Missed": {
+        "Defensive Rebound": 0.15691985406591133,
+        "Inbound": 0.1574146595116786,
+        "Steal": 0.1218890833857671
+      },
+      "Free Throw": {
+        "Defensive Rebound": 0.11576287176932465,
+        "Inbound": 0.11398785489366298,
+        "Steal": 0.12740553520618586
+      },
+      "Turnover": {
+        "Defensive Rebound": 0.14651638464847283,
+        "Inbound": 0.13458508671807456,
+        "Steal": 0.1369604895722217
+      }
+    },
+    "Away": {
+      "2PT Blocked": {
+        "Defensive Rebound": 0.03445064144156439,
+        "Inbound": 0.03773414151924333,
+        "Steal": 0.0357288082083022
+      },
+      "2PT Made": {
+        "Defensive Rebound": 0.2630824212239089,
+        "Inbound": 0.2649999344992688,
+        "Steal": 0.3288152001810865
+      },
+      "2PT Missed": {
+        "Defensive Rebound": 0.16011887964721627,
+        "Inbound": 0.17559295957037585,
+        "Steal": 0.12141520949107826
+      },
+      "3PT Made": {
+        "Defensive Rebound": 0.11373724264166053,
+        "Inbound": 0.11213495459914907,
+        "Steal": 0.10562288892208604
+      },
+      "3PT Missed": {
+        "Defensive Rebound": 0.1626626365310163,
+        "Inbound": 0.15876136600044885,
+        "Steal": 0.12639235314779126
+      },
+      "Free Throw": {
+        "Defensive Rebound": 0.11592121939355912,
+        "Inbound": 0.10865034374623611,
+        "Steal": 0.13192340189374793
+      },
+      "Turnover": {
+        "Defensive Rebound": 0.14719644455053996,
+        "Inbound": 0.13779491680006176,
+        "Steal": 0.1453382179222967
+      }
+    }
+  },
+  "CLE": {
+    "Home": {
+      "2PT Blocked": {
+        "Defensive Rebound": 0.03206770709406887,
+        "Inbound": 0.03338986992297417,
+        "Steal": 0.026175884979912894
+      },
+      "2PT Made": {
+        "Defensive Rebound": 0.27795848393930056,
+        "Inbound": 0.2701897793055934,
+        "Steal": 0.37756715522359025
+      },
+      "2PT Missed": {
+        "Defensive Rebound": 0.1607375354259327,
+        "Inbound": 0.17803089609534992,
+        "Steal": 0.11089379660851523
+      },
+      "3PT Made": {
+        "Defensive Rebound": 0.11804999914679135,
+        "Inbound": 0.11788990981600485,
+        "Steal": 0.10292054089683077
+      },
+      "3PT Missed": {
+        "Defensive Rebound": 0.15336882467289376,
+        "Inbound": 0.16062776771520065,
+        "Steal": 0.1107509117017728
+      },
+      "Free Throw": {
+        "Defensive Rebound": 0.11504571405647941,
+        "Inbound": 0.10443728801365507,
+        "Steal": 0.1336242800626541
+      },
+      "Turnover": {
+        "Defensive Rebound": 0.14009046711016496,
+        "Inbound": 0.13290360204342583,
+        "Steal": 0.13417309809846772
+      }
+    },
+    "Away": {
+      "2PT Blocked": {
+        "Defensive Rebound": 0.034405389535678184,
+        "Inbound": 0.030499596078266564,
+        "Steal": 0.028662046609032786
+      },
+      "2PT Made": {
+        "Defensive Rebound": 0.2765540848084589,
+        "Inbound": 0.2764150050680352,
+        "Steal": 0.36467031039687514
+      },
+      "2PT Missed": {
+        "Defensive Rebound": 0.15696268169505015,
+        "Inbound": 0.17749045772367186,
+        "Steal": 0.11606145411122473
+      },
+      "3PT Made": {
+        "Defensive Rebound": 0.11439118863678253,
+        "Inbound": 0.11452846859323203,
+        "Steal": 0.09730499930738122
+      },
+      "3PT Missed": {
+        "Defensive Rebound": 0.15553977687716966,
+        "Inbound": 0.15855784682113785,
+        "Steal": 0.12578162368389784
+      },
+      "Free Throw": {
+        "Defensive Rebound": 0.11690294900109247,
+        "Inbound": 0.10718559781386,
+        "Steal": 0.13602412411009696
+      },
+      "Turnover": {
+        "Defensive Rebound": 0.14293132533126707,
+        "Inbound": 0.13195890123409637,
+        "Steal": 0.12827604624232325
+      }
+    }
+  },
+  "SAC": {
+    "Home": {
+      "2PT Blocked": {
+        "Defensive Rebound": 0.034125802596054376,
+        "Inbound": 0.03252788734113303,
+        "Steal": 0.03246161370313812
+      },
+      "2PT Made": {
+        "Defensive Rebound": 0.28649124415825356,
+        "Inbound": 0.27218805938566315,
+        "Steal": 0.3717332719931339
+      },
+      "2PT Missed": {
+        "Defensive Rebound": 0.16309792387920363,
+        "Inbound": 0.18332990102776892,
+        "Steal": 0.1225567331787631
+      },
+      "3PT Made": {
+        "Defensive Rebound": 0.10548805178193847,
+        "Inbound": 0.10885119436796858,
+        "Steal": 0.09976178249395583
+      },
+      "3PT Missed": {
+        "Defensive Rebound": 0.14883647044221804,
+        "Inbound": 0.14688884942925082,
+        "Steal": 0.10311704524671428
+      },
+      "Free Throw": {
+        "Defensive Rebound": 0.12157738752980614,
+        "Inbound": 0.11539208961358331,
+        "Steal": 0.1321223872034051
+      },
+      "Turnover": {
+        "Defensive Rebound": 0.1390173478735354,
+        "Inbound": 0.13706088192025595,
+        "Steal": 0.1362156088364221
+      }
+    },
+    "Away": {
+      "2PT Blocked": {
+        "Defensive Rebound": 0.03695137829280268,
+        "Inbound": 0.031934021504861486,
+        "Steal": 0.03602965940436294
+      },
+      "2PT Made": {
+        "Defensive Rebound": 0.2724802044495751,
+        "Inbound": 0.2797229739071258,
+        "Steal": 0.35931620446876616
+      },
+      "2PT Missed": {
+        "Defensive Rebound": 0.167918491868104,
+        "Inbound": 0.18138980246079447,
+        "Steal": 0.12051863120831635
+      },
+      "3PT Made": {
+        "Defensive Rebound": 0.11233660802503537,
+        "Inbound": 0.1025307315250321,
+        "Steal": 0.10607560773398603
+      },
+      "3PT Missed": {
+        "Defensive Rebound": 0.14427511807229945,
+        "Inbound": 0.1466154160048372,
+        "Steal": 0.12550412418560525
+      },
+      "Free Throw": {
+        "Defensive Rebound": 0.11943710798985403,
+        "Inbound": 0.1165972635512639,
+        "Steal": 0.1351470757697135
+      },
+      "Turnover": {
+        "Defensive Rebound": 0.1435149933498484,
+        "Inbound": 0.13795319926879943,
+        "Steal": 0.1145546795073109
+      }
+    }
+  },
+  "NOP": {
+    "Home": {
+      "2PT Blocked": {
+        "Defensive Rebound": 0.036875724233891786,
+        "Inbound": 0.03402840407157473,
+        "Steal": 0.030917251568787295
+      },
+      "2PT Made": {
+        "Defensive Rebound": 0.2832796006346214,
+        "Inbound": 0.28037427566652773,
+        "Steal": 0.36549483560975776
+      },
+      "2PT Missed": {
+        "Defensive Rebound": 0.16578036002443441,
+        "Inbound": 0.17999497947451673,
+        "Steal": 0.12779328486454924
+      },
+      "3PT Made": {
+        "Defensive Rebound": 0.10785576267189238,
+        "Inbound": 0.10743932497475023,
+        "Steal": 0.09522813275745719
+      },
+      "3PT Missed": {
+        "Defensive Rebound": 0.14746536018159073,
+        "Inbound": 0.14742850828117302,
+        "Steal": 0.11568448700310249
+      },
+      "Free Throw": {
+        "Defensive Rebound": 0.12046841559572764,
+        "Inbound": 0.11490029689671905,
+        "Steal": 0.12956716037452207
+      },
+      "Turnover": {
+        "Defensive Rebound": 0.1354832905097348,
+        "Inbound": 0.1319430934440886,
+        "Steal": 0.13096078771810987
+      }
+    },
+    "Away": {
+      "2PT Blocked": {
+        "Defensive Rebound": 0.03686198845150769,
+        "Inbound": 0.036611938934665994,
+        "Steal": 0.03025292989040359
+      },
+      "2PT Made": {
+        "Defensive Rebound": 0.2767011261234077,
+        "Inbound": 0.2755820118515772,
+        "Steal": 0.3557097024821396
+      },
+      "2PT Missed": {
+        "Defensive Rebound": 0.17192888982643167,
+        "Inbound": 0.1857974030152293,
+        "Steal": 0.12127333435764821
+      },
+      "3PT Made": {
+        "Defensive Rebound": 0.10704195808569811,
+        "Inbound": 0.10473281064081791,
+        "Steal": 0.09890623890481519
+      },
+      "3PT Missed": {
+        "Defensive Rebound": 0.14736491627256684,
+        "Inbound": 0.14676343105602738,
+        "Steal": 0.1281370312508913
+      },
+      "Free Throw": {
+        "Defensive Rebound": 0.11643669671301161,
+        "Inbound": 0.11577703105141564,
+        "Steal": 0.13354974820437815
+      },
+      "Turnover": {
+        "Defensive Rebound": 0.14093159381635398,
+        "Inbound": 0.13188817657186844,
+        "Steal": 0.12914880845609866
+      }
+    }
+  },
+  "OKC": {
+    "Home": {
+      "2PT Blocked": {
+        "Defensive Rebound": 0.03624686316716146,
+        "Inbound": 0.03325428658830596,
+        "Steal": 0.037341311931453715
+      },
+      "2PT Made": {
+        "Defensive Rebound": 0.2770558012992779,
+        "Inbound": 0.2745186768004102,
+        "Steal": 0.3580226397904435
+      },
+      "2PT Missed": {
+        "Defensive Rebound": 0.163847588736711,
+        "Inbound": 0.17995290108126066,
+        "Steal": 0.13061076654589698
+      },
+      "3PT Made": {
+        "Defensive Rebound": 0.10536086931750004,
+        "Inbound": 0.10762283453054733,
+        "Steal": 0.09143034800139604
+      },
+      "3PT Missed": {
+        "Defensive Rebound": 0.15037609036380853,
+        "Inbound": 0.15155947225368255,
+        "Steal": 0.12262206177490587
+      },
+      "Free Throw": {
+        "Defensive Rebound": 0.11627871953441776,
+        "Inbound": 0.11538573455330574,
+        "Steal": 0.13388150770372967
+      },
+      "Turnover": {
+        "Defensive Rebound": 0.14842770231002653,
+        "Inbound": 0.13482711663582633,
+        "Steal": 0.12305302141176054
+      }
+    },
+    "Away": {
+      "2PT Blocked": {
+        "Defensive Rebound": 0.034576175980572915,
+        "Inbound": 0.03650696954089961,
+        "Steal": 0.03981081656173794
+      },
+      "2PT Made": {
+        "Defensive Rebound": 0.27044776697639344,
+        "Inbound": 0.26985201142468923,
+        "Steal": 0.3538013723520404
+      },
+      "2PT Missed": {
+        "Defensive Rebound": 0.1679212800243562,
+        "Inbound": 0.1854648336335257,
+        "Steal": 0.12275885880111091
+      },
+      "3PT Made": {
+        "Defensive Rebound": 0.10447170339798219,
+        "Inbound": 0.10539739498220603,
+        "Steal": 0.09174373960781412
+      },
+      "3PT Missed": {
+        "Defensive Rebound": 0.15901055309650497,
+        "Inbound": 0.15112633102772333,
+        "Steal": 0.12675328922884835
+      },
+      "Free Throw": {
+        "Defensive Rebound": 0.12026393697305174,
+        "Inbound": 0.11531962491398633,
+        "Steal": 0.12764195165636014
+      },
+      "Turnover": {
+        "Defensive Rebound": 0.14086893738438142,
+        "Inbound": 0.13272342284609387,
+        "Steal": 0.1351726534221132
+      }
+    }
+  },
+  "MIN": {
+    "Home": {
+      "2PT Blocked": {
+        "Defensive Rebound": 0.03557944925493871,
+        "Inbound": 0.03456842078667238,
+        "Steal": 0.03362280077313557
+      },
+      "2PT Made": {
+        "Defensive Rebound": 0.2814841685936488,
+        "Inbound": 0.27810672023966304,
+        "Steal": 0.3896269466122364
+      },
+      "2PT Missed": {
+        "Defensive Rebound": 0.15963933861899915,
+        "Inbound": 0.17944674382479073,
+        "Steal": 0.11515077045900199
+      },
+      "3PT Made": {
+        "Defensive Rebound": 0.1102189900698979,
+        "Inbound": 0.10554345813511887,
+        "Steal": 0.06870043504976013
+      },
+      "3PT Missed": {
+        "Defensive Rebound": 0.13731513688593253,
+        "Inbound": 0.14533433188560899,
+        "Steal": 0.11950445710514826
+      },
+      "Free Throw": {
+        "Defensive Rebound": 0.12658036852518634,
+        "Inbound": 0.11634232880065914,
+        "Steal": 0.14468199281047872
+      },
+      "Turnover": {
+        "Defensive Rebound": 0.14592562890763228,
+        "Inbound": 0.13737129586964872,
+        "Steal": 0.12543997847110436
+      }
+    },
+    "Away": {
+      "2PT Blocked": {
+        "Defensive Rebound": 0.03825463776432192,
+        "Inbound": 0.035789786923461,
+        "Steal": 0.03081460974938596
+      },
+      "2PT Made": {
+        "Defensive Rebound": 0.2731085510184039,
+        "Inbound": 0.2847255936692388,
+        "Steal": 0.4013443678006946
+      },
+      "2PT Missed": {
+        "Defensive Rebound": 0.1598238595280501,
+        "Inbound": 0.1773085683618885,
+        "Steal": 0.11442247492337704
+      },
+      "3PT Made": {
+        "Defensive Rebound": 0.10628302046074783,
+        "Inbound": 0.1061454532495873,
+        "Steal": 0.08540522445658486
+      },
+      "3PT Missed": {
+        "Defensive Rebound": 0.1343364146994229,
+        "Inbound": 0.1452874188477281,
+        "Steal": 0.10213991455646843
+      },
+      "Free Throw": {
+        "Defensive Rebound": 0.12877217085679724,
+        "Inbound": 0.11634762192030945,
+        "Steal": 0.1426231947090738
+      },
+      "Turnover": {
+        "Defensive Rebound": 0.15618943587332418,
+        "Inbound": 0.13178163569282642,
+        "Steal": 0.12219884216880454
+      }
+    }
+  },
+  "HOU": {
+    "Home": {
+      "2PT Blocked": {
+        "Defensive Rebound": 0.036508895633498614,
+        "Inbound": 0.035957143012942186,
+        "Steal": 0.03028485618272625
+      },
+      "2PT Made": {
+        "Defensive Rebound": 0.2483528023113369,
+        "Inbound": 0.24149928249283767,
+        "Steal": 0.3557819998170212
+      },
+      "2PT Missed": {
+        "Defensive Rebound": 0.1304775834334127,
+        "Inbound": 0.14701452449143682,
+        "Steal": 0.09712259583061011
+      },
+      "3PT Made": {
+        "Defensive Rebound": 0.12857025537736824,
+        "Inbound": 0.122566735026082,
+        "Steal": 0.11311849192701874
+      },
+      "3PT Missed": {
+        "Defensive Rebound": 0.176644234915663,
+        "Inbound": 0.18565098249218703,
+        "Steal": 0.14449366608919426
+      },
+      "Free Throw": {
+        "Defensive Rebound": 0.12538337581120163,
+        "Inbound": 0.12177092752540805,
+        "Steal": 0.13711482895460833
+      },
+      "Turnover": {
+        "Defensive Rebound": 0.15201451807889654,
+        "Inbound": 0.14173021346997905,
+        "Steal": 0.12043061912531827
+      }
+    },
+    "Away": {
+      "2PT Blocked": {
+        "Defensive Rebound": 0.03476580904819817,
+        "Inbound": 0.036016143800829556,
+        "Steal": 0.03444826180917677
+      },
+      "2PT Made": {
+        "Defensive Rebound": 0.251486849751968,
+        "Inbound": 0.248406696848344,
+        "Steal": 0.3504387534468729
+      },
+      "2PT Missed": {
+        "Defensive Rebound": 0.13885596063947928,
+        "Inbound": 0.14645816570553108,
+        "Steal": 0.09780237332789601
+      },
+      "3PT Made": {
+        "Defensive Rebound": 0.12786740446694037,
+        "Inbound": 0.12312397648356882,
+        "Steal": 0.11909233167293468
+      },
+      "3PT Missed": {
+        "Defensive Rebound": 0.17041512509788562,
+        "Inbound": 0.17879072584534803,
+        "Steal": 0.14372109543560366
+      },
+      "Free Throw": {
+        "Defensive Rebound": 0.12415751598035074,
+        "Inbound": 0.12052265420695644,
+        "Steal": 0.12591358858688942
+      },
+      "Turnover": {
+        "Defensive Rebound": 0.1493129725508454,
+        "Inbound": 0.14317902384608153,
+        "Steal": 0.12500994670083865
+      }
+    }
+  },
+  "DAL": {
+    "Home": {
+      "2PT Blocked": {
+        "Defensive Rebound": 0.027472504266123268,
+        "Inbound": 0.029585366838715852,
+        "Steal": 0.03312551668616284
+      },
+      "2PT Made": {
+        "Defensive Rebound": 0.26338282126285895,
+        "Inbound": 0.26857435328108314,
+        "Steal": 0.3167919261908188
+      },
+      "2PT Missed": {
+        "Defensive Rebound": 0.16817457907898248,
+        "Inbound": 0.1749331401907991,
+        "Steal": 0.12580873097851636
+      },
+      "3PT Made": {
+        "Defensive Rebound": 0.11721574747967739,
+        "Inbound": 0.11478036007687639,
+        "Steal": 0.10345458039522568
+      },
+      "3PT Missed": {
+        "Defensive Rebound": 0.16817430561550178,
+        "Inbound": 0.16787367261064778,
+        "Steal": 0.1492514598689758
+      },
+      "Free Throw": {
+        "Defensive Rebound": 0.11843663967980989,
+        "Inbound": 0.11669940111219633,
+        "Steal": 0.1338239197471927
+      },
+      "Turnover": {
+        "Defensive Rebound": 0.13498973062343791,
+        "Inbound": 0.12448664382496535,
+        "Steal": 0.13477637236212728
+      }
+    },
+    "Away": {
+      "2PT Blocked": {
+        "Defensive Rebound": 0.028660102259929206,
+        "Inbound": 0.03153664316956267,
+        "Steal": 0.029849922333430687
+      },
+      "2PT Made": {
+        "Defensive Rebound": 0.2687580731237653,
+        "Inbound": 0.2614116003711532,
+        "Steal": 0.36902736145665155
+      },
+      "2PT Missed": {
+        "Defensive Rebound": 0.15591107369553342,
+        "Inbound": 0.18509017381289972,
+        "Steal": 0.12182600112000848
+      },
+      "3PT Made": {
+        "Defensive Rebound": 0.12542686240795203,
+        "Inbound": 0.11944137501426325,
+        "Steal": 0.10698617474188957
+      },
+      "3PT Missed": {
+        "Defensive Rebound": 0.17002820985594325,
+        "Inbound": 0.17208973747863368,
+        "Steal": 0.1302044860747464
+      },
+      "Free Throw": {
+        "Defensive Rebound": 0.11962920740015666,
+        "Inbound": 0.10921027390875777,
+        "Steal": 0.11795484538996381
+      },
+      "Turnover": {
+        "Defensive Rebound": 0.1292604987362599,
+        "Inbound": 0.11806189222544888,
+        "Steal": 0.12258226589100886
+      }
+    }
+  },
+  "UTA": {
+    "Home": {
+      "2PT Blocked": {
+        "Defensive Rebound": 0.03576591798363846,
+        "Inbound": 0.034334984599872824,
+        "Steal": 0.033603559795534504
+      },
+      "2PT Made": {
+        "Defensive Rebound": 0.26557668959522673,
+        "Inbound": 0.260362541113079,
+        "Steal": 0.3467564877355548
+      },
+      "2PT Missed": {
+        "Defensive Rebound": 0.1567259736121717,
+        "Inbound": 0.179082225154296,
+        "Steal": 0.12074383692019533
+      },
+      "3PT Made": {
+        "Defensive Rebound": 0.12341807882416395,
+        "Inbound": 0.11006616805888855,
+        "Steal": 0.10859889309799622
+      },
+      "3PT Missed": {
+        "Defensive Rebound": 0.16031623660755107,
+        "Inbound": 0.16020799105434838,
+        "Steal": 0.12678818965514876
+      },
+      "Free Throw": {
+        "Defensive Rebound": 0.11714337174921617,
+        "Inbound": 0.11861192026836331,
+        "Steal": 0.13019310151010766
+      },
+      "Turnover": {
+        "Defensive Rebound": 0.13895123993867445,
+        "Inbound": 0.13441950313112214,
+        "Steal": 0.12821823269612595
+      }
+    },
+    "Away": {
+      "2PT Blocked": {
+        "Defensive Rebound": 0.037169152420930836,
+        "Inbound": 0.03672935714918077,
+        "Steal": 0.030976664926217763
+      },
+      "2PT Made": {
+        "Defensive Rebound": 0.26606611894481924,
+        "Inbound": 0.2700605083315523,
+        "Steal": 0.36168905626281
+      },
+      "2PT Missed": {
+        "Defensive Rebound": 0.1641163863445984,
+        "Inbound": 0.1787032166282293,
+        "Steal": 0.12753271619368764
+      },
+      "3PT Made": {
+        "Defensive Rebound": 0.11982050530073605,
+        "Inbound": 0.10912729075880422,
+        "Steal": 0.10192400875497229
+      },
+      "3PT Missed": {
+        "Defensive Rebound": 0.15152737385505374,
+        "Inbound": 0.15472773893494376,
+        "Steal": 0.12589487160833734
+      },
+      "Free Throw": {
+        "Defensive Rebound": 0.11433607110871377,
+        "Inbound": 0.1135156121422466,
+        "Steal": 0.12144361052900783
+      },
+      "Turnover": {
+        "Defensive Rebound": 0.14418582185455453,
+        "Inbound": 0.13395830665055203,
+        "Steal": 0.12686661021153595
+      }
+    }
+  },
+  "MIL": {
+    "Home": {
+      "2PT Blocked": {
+        "Defensive Rebound": 0.034669992588375984,
+        "Inbound": 0.03673737879173519,
+        "Steal": 0.0359854015372778
+      },
+      "2PT Made": {
+        "Defensive Rebound": 0.26788162825477674,
+        "Inbound": 0.2625341663197619,
+        "Steal": 0.36792820316302743
+      },
+      "2PT Missed": {
+        "Defensive Rebound": 0.16340036078768228,
+        "Inbound": 0.17991579721311496,
+        "Steal": 0.1165068347269177
+      },
+      "3PT Made": {
+        "Defensive Rebound": 0.1135360595960058,
+        "Inbound": 0.10827556781281951,
+        "Steal": 0.08402905777922624
+      },
+      "3PT Missed": {
+        "Defensive Rebound": 0.15828176768656396,
+        "Inbound": 0.15668574697748838,
+        "Steal": 0.12085650317790786
+      },
+      "Free Throw": {
+        "Defensive Rebound": 0.11809998725837853,
+        "Inbound": 0.11187769747052834,
+        "Steal": 0.13928171209145201
+      },
+      "Turnover": {
+        "Defensive Rebound": 0.14145746396510514,
+        "Inbound": 0.14036919938031328,
+        "Steal": 0.13251499983159717
+      }
+    },
+    "Away": {
+      "2PT Blocked": {
+        "Defensive Rebound": 0.03468797495137029,
+        "Inbound": 0.03567717133841263,
+        "Steal": 0.04141586574954326
+      },
+      "2PT Made": {
+        "Defensive Rebound": 0.27329385532338973,
+        "Inbound": 0.2646253956558704,
+        "Steal": 0.3318642321803678
+      },
+      "2PT Missed": {
+        "Defensive Rebound": 0.16614189773835047,
+        "Inbound": 0.1802982525527319,
+        "Steal": 0.12881051836023275
+      },
+      "3PT Made": {
+        "Defensive Rebound": 0.11479168728732961,
+        "Inbound": 0.11129398644874143,
+        "Steal": 0.09707424376005179
+      },
+      "3PT Missed": {
+        "Defensive Rebound": 0.15146400692671724,
+        "Inbound": 0.16071349397851292,
+        "Steal": 0.11890739719212223
+      },
+      "Free Throw": {
+        "Defensive Rebound": 0.11404786987949263,
+        "Inbound": 0.11182433752462184,
+        "Steal": 0.1423530163976819
+      },
+      "Turnover": {
+        "Defensive Rebound": 0.142635082004314,
+        "Inbound": 0.13235517407616318,
+        "Steal": 0.1369477922909606
+      }
+    }
+  },
+  "DET": {
+    "Home": {
+      "2PT Blocked": {
+        "Defensive Rebound": 0.03259893195425774,
+        "Inbound": 0.03266566435786835,
+        "Steal": 0.03506140017755213
+      },
+      "2PT Made": {
+        "Defensive Rebound": 0.27738469583439845,
+        "Inbound": 0.2808070120860402,
+        "Steal": 0.3590916807488905
+      },
+      "2PT Missed": {
+        "Defensive Rebound": 0.17163730188386522,
+        "Inbound": 0.18386954704015127,
+        "Steal": 0.11098865956713538
+      },
+      "3PT Made": {
+        "Defensive Rebound": 0.11114001004605066,
+        "Inbound": 0.10097775547788483,
+        "Steal": 0.09085083773176396
+      },
+      "3PT Missed": {
+        "Defensive Rebound": 0.14981195267112432,
+        "Inbound": 0.1551337115291525,
+        "Steal": 0.1271196523021249
+      },
+      "Free Throw": {
+        "Defensive Rebound": 0.11604233989094193,
+        "Inbound": 0.11618918176447043,
+        "Steal": 0.1446152717735169
+      },
+      "Turnover": {
+        "Defensive Rebound": 0.13844233758715363,
+        "Inbound": 0.1275281328775397,
+        "Steal": 0.1313533800519574
+      }
+    },
+    "Away": {
+      "2PT Blocked": {
+        "Defensive Rebound": 0.03688280701427816,
+        "Inbound": 0.03561602157610805,
+        "Steal": 0.028521048845942566
+      },
+      "2PT Made": {
+        "Defensive Rebound": 0.2707909495183266,
+        "Inbound": 0.2658398832571322,
+        "Steal": 0.3634876022222551
+      },
+      "2PT Missed": {
+        "Defensive Rebound": 0.1697498764526807,
+        "Inbound": 0.1943010636921886,
+        "Steal": 0.12106503596319057
+      },
+      "3PT Made": {
+        "Defensive Rebound": 0.11202514211305695,
+        "Inbound": 0.10414482618203139,
+        "Steal": 0.10264220084824223
+      },
+      "3PT Missed": {
+        "Defensive Rebound": 0.14926596301411132,
+        "Inbound": 0.1533062581498581,
+        "Steal": 0.11549318365655334
+      },
+      "Free Throw": {
+        "Defensive Rebound": 0.1168678334965639,
+        "Inbound": 0.11019419526527993,
+        "Steal": 0.1309544024880252
+      },
+      "Turnover": {
+        "Defensive Rebound": 0.14234120322934565,
+        "Inbound": 0.13377557397506384,
+        "Steal": 0.13256604736356328
+      }
+    }
+  },
+  "TOR": {
+    "Home": {
+      "2PT Blocked": {
+        "Defensive Rebound": 0.03605787914626843,
+        "Inbound": 0.03239888848294959,
+        "Steal": 0.03814754289492986
+      },
+      "2PT Made": {
+        "Defensive Rebound": 0.2632513326978558,
+        "Inbound": 0.26071829422160914,
+        "Steal": 0.35506985755504017
+      },
+      "2PT Missed": {
+        "Defensive Rebound": 0.16517858736006913,
+        "Inbound": 0.18104476833315952,
+        "Steal": 0.1200221883509724
+      },
+      "3PT Made": {
+        "Defensive Rebound": 0.11388521041191847,
+        "Inbound": 0.1155675312898239,
+        "Steal": 0.09677572852309492
+      },
+      "3PT Missed": {
+        "Defensive Rebound": 0.14934706249007734,
+        "Inbound": 0.15705600802707145,
+        "Steal": 0.12573107616803547
+      },
+      "Free Throw": {
+        "Defensive Rebound": 0.12425649215393532,
+        "Inbound": 0.11685400255300192,
+        "Steal": 0.13237530194861694
+      },
+      "Turnover": {
+        "Defensive Rebound": 0.14478749931836266,
+        "Inbound": 0.13312408674576243,
+        "Steal": 0.12698674217891578
+      }
+    },
+    "Away": {
+      "2PT Blocked": {
+        "Defensive Rebound": 0.035687128241841476,
+        "Inbound": 0.03892096307420887,
+        "Steal": 0.03629528191316897
+      },
+      "2PT Made": {
+        "Defensive Rebound": 0.257441255154188,
+        "Inbound": 0.2631239513825324,
+        "Steal": 0.363249157965103
+      },
+      "2PT Missed": {
+        "Defensive Rebound": 0.15722989169767043,
+        "Inbound": 0.17680487261653238,
+        "Steal": 0.11552819845587502
+      },
+      "3PT Made": {
+        "Defensive Rebound": 0.1147657079491651,
+        "Inbound": 0.11122138605147294,
+        "Steal": 0.0882559612188348
+      },
+      "3PT Missed": {
+        "Defensive Rebound": 0.160867566319789,
+        "Inbound": 0.15839752634017523,
+        "Steal": 0.13009978778917877
+      },
+      "Free Throw": {
+        "Defensive Rebound": 0.13188355107313107,
+        "Inbound": 0.1168460661442495,
+        "Steal": 0.14071043084246393
+      },
+      "Turnover": {
+        "Defensive Rebound": 0.13848361475887325,
+        "Inbound": 0.1310660791301609,
+        "Steal": 0.12162857818754519
+      }
+    }
+  },
+  "WAS": {
+    "Home": {
+      "2PT Blocked": {
+        "Defensive Rebound": 0.03185283512109905,
+        "Inbound": 0.030584426446816415,
+        "Steal": 0.03696365573265499
+      },
+      "2PT Made": {
+        "Defensive Rebound": 0.28110743467935506,
+        "Inbound": 0.2813031683360594,
+        "Steal": 0.3500744236533133
+      },
+      "2PT Missed": {
+        "Defensive Rebound": 0.17647144135282242,
+        "Inbound": 0.18774933083035802,
+        "Steal": 0.13304286884054345
+      },
+      "3PT Made": {
+        "Defensive Rebound": 0.10333072908621121,
+        "Inbound": 0.10285866024602573,
+        "Steal": 0.09292392886421917
+      },
+      "3PT Missed": {
+        "Defensive Rebound": 0.14126624988126563,
+        "Inbound": 0.1343725585941643,
+        "Steal": 0.10927630980549799
+      },
+      "Free Throw": {
+        "Defensive Rebound": 0.12657998302400963,
+        "Inbound": 0.11796036210475593,
+        "Steal": 0.1510605836250314
+      },
+      "Turnover": {
+        "Defensive Rebound": 0.13729570240851352,
+        "Inbound": 0.14216394156074974,
+        "Steal": 0.12241979796353668
+      }
+    },
+    "Away": {
+      "2PT Blocked": {
+        "Defensive Rebound": 0.03138388511594105,
+        "Inbound": 0.032136822924667435,
+        "Steal": 0.03451575632746904
+      },
+      "2PT Made": {
+        "Defensive Rebound": 0.28736638516749735,
+        "Inbound": 0.2804375632434694,
+        "Steal": 0.3644071793781578
+      },
+      "2PT Missed": {
+        "Defensive Rebound": 0.17215869615984797,
+        "Inbound": 0.19287123113719362,
+        "Steal": 0.12177484883885631
+      },
+      "3PT Made": {
+        "Defensive Rebound": 0.10796356410559062,
+        "Inbound": 0.10228673423862919,
+        "Steal": 0.09419867877243282
+      },
+      "3PT Missed": {
+        "Defensive Rebound": 0.14026097916267727,
+        "Inbound": 0.14102318432221048,
+        "Steal": 0.11668386129843134
+      },
+      "Free Throw": {
+        "Defensive Rebound": 0.1204522946800468,
+        "Inbound": 0.11513798595242024,
+        "Steal": 0.1424364431905666
+      },
+      "Turnover": {
+        "Defensive Rebound": 0.1377602954081036,
+        "Inbound": 0.13334888211159268,
+        "Steal": 0.12342752377466457
+      }
+    }
+  },
+  "PHI": {
+    "Home": {
+      "2PT Blocked": {
+        "Defensive Rebound": 0.03372902673079615,
+        "Inbound": 0.032739671510458736,
+        "Steal": 0.033469595125686404
+      },
+      "2PT Made": {
+        "Defensive Rebound": 0.2647982550457746,
+        "Inbound": 0.2676015214193842,
+        "Steal": 0.3668719395325079
+      },
+      "2PT Missed": {
+        "Defensive Rebound": 0.16232085852381695,
+        "Inbound": 0.19076458959477666,
+        "Steal": 0.12219455427698447
+      },
+      "3PT Made": {
+        "Defensive Rebound": 0.11145000233898565,
+        "Inbound": 0.09885749229884518,
+        "Steal": 0.09739665082259165
+      },
+      "3PT Missed": {
+        "Defensive Rebound": 0.14854675582749055,
+        "Inbound": 0.14346483913722644,
+        "Steal": 0.11207069159672461
+      },
+      "Free Throw": {
+        "Defensive Rebound": 0.12723817280424252,
+        "Inbound": 0.12104064720236773,
+        "Steal": 0.13934857215105959
+      },
+      "Turnover": {
+        "Defensive Rebound": 0.1488633360719546,
+        "Inbound": 0.14281855676843663,
+        "Steal": 0.12504812550615407
+      }
+    },
+    "Away": {
+      "2PT Blocked": {
+        "Defensive Rebound": 0.03568972767766392,
+        "Inbound": 0.03878437436629006,
+        "Steal": 0.03457715741274224
+      },
+      "2PT Made": {
+        "Defensive Rebound": 0.2639929658294256,
+        "Inbound": 0.2669452783674417,
+        "Steal": 0.3495523181961219
+      },
+      "2PT Missed": {
+        "Defensive Rebound": 0.16564594407740008,
+        "Inbound": 0.1844235720096204,
+        "Steal": 0.11745124728377034
+      },
+      "3PT Made": {
+        "Defensive Rebound": 0.10531532654767943,
+        "Inbound": 0.10124956915311181,
+        "Steal": 0.09951403297301363
+      },
+      "3PT Missed": {
+        "Defensive Rebound": 0.1517491641481376,
+        "Inbound": 0.14505934571280255,
+        "Steal": 0.1144490440499571
+      },
+      "Free Throw": {
+        "Defensive Rebound": 0.12607143689502462,
+        "Inbound": 0.12110852924886886,
+        "Steal": 0.1409126088405129
+      },
+      "Turnover": {
+        "Defensive Rebound": 0.1483180484409945,
+        "Inbound": 0.13901358511422118,
+        "Steal": 0.13851110038382944
+      }
+    }
+  },
+  "SAS": {
+    "Home": {
+      "2PT Blocked": {
+        "Defensive Rebound": 0.03637460160793647,
+        "Inbound": 0.037289764843079776,
+        "Steal": 0.03678504671292963
+      },
+      "2PT Made": {
+        "Defensive Rebound": 0.2897179488739477,
+        "Inbound": 0.2893812228511341,
+        "Steal": 0.36185541332770976
+      },
+      "2PT Missed": {
+        "Defensive Rebound": 0.18708235329931097,
+        "Inbound": 0.2011170309224696,
+        "Steal": 0.12934910022750615
+      },
+      "3PT Made": {
+        "Defensive Rebound": 0.10414221388413201,
+        "Inbound": 0.10182588730598816,
+        "Steal": 0.10291855087124747
+      },
+      "3PT Missed": {
+        "Defensive Rebound": 0.13523330695130537,
+        "Inbound": 0.13749961779205577,
+        "Steal": 0.11585639072067709
+      },
+      "Free Throw": {
+        "Defensive Rebound": 0.10763941552049922,
+        "Inbound": 0.10535127428657673,
+        "Steal": 0.11994416427176004
+      },
+      "Turnover": {
+        "Defensive Rebound": 0.13755719723451446,
+        "Inbound": 0.12508452817021118,
+        "Steal": 0.12899683598984168
+      }
+    },
+    "Away": {
+      "2PT Blocked": {
+        "Defensive Rebound": 0.03308968395810545,
+        "Inbound": 0.03504355227519139,
+        "Steal": 0.038109729977326263
+      },
+      "2PT Made": {
+        "Defensive Rebound": 0.2887025821198472,
+        "Inbound": 0.28773468450078393,
+        "Steal": 0.3700012564475822
+      },
+      "2PT Missed": {
+        "Defensive Rebound": 0.19186702775229814,
+        "Inbound": 0.2094423379712754,
+        "Steal": 0.14202661111543072
+      },
+      "3PT Made": {
+        "Defensive Rebound": 0.09963713488184675,
+        "Inbound": 0.09546177930842596,
+        "Steal": 0.09158496475933309
+      },
+      "3PT Missed": {
+        "Defensive Rebound": 0.13755780643567866,
+        "Inbound": 0.13599289948661344,
+        "Steal": 0.11248595021311115
+      },
+      "Free Throw": {
+        "Defensive Rebound": 0.11250112332264965,
+        "Inbound": 0.10956996840341776,
+        "Steal": 0.12434706645192196
+      },
+      "Turnover": {
+        "Defensive Rebound": 0.13413414434878773,
+        "Inbound": 0.12481926359308679,
+        "Steal": 0.11805832669650716
+      }
+    }
+  },
+  "MIA": {
+    "Home": {
+      "2PT Blocked": {
+        "Defensive Rebound": 0.029047651888784682,
+        "Inbound": 0.03448919048480334,
+        "Steal": 0.03272547389076506
+      },
+      "2PT Made": {
+        "Defensive Rebound": 0.267062982353211,
+        "Inbound": 0.2648709394171402,
+        "Steal": 0.3423571761322399
+      },
+      "2PT Missed": {
+        "Defensive Rebound": 0.16088318440199728,
+        "Inbound": 0.18041777505230583,
+        "Steal": 0.12631727119227537
+      },
+      "3PT Made": {
+        "Defensive Rebound": 0.11580065639563165,
+        "Inbound": 0.106847204756111,
+        "Steal": 0.08999068901723714
+      },
+      "3PT Missed": {
+        "Defensive Rebound": 0.14986550887017233,
+        "Inbound": 0.15362412493677371,
+        "Steal": 0.1357441359446441
+      },
+      "Free Throw": {
+        "Defensive Rebound": 0.12467332004817906,
+        "Inbound": 0.1191406630368074,
+        "Steal": 0.13393100948646472
+      },
+      "Turnover": {
+        "Defensive Rebound": 0.14912015575966334,
+        "Inbound": 0.1369826309482852,
+        "Steal": 0.13453287009707549
+      }
+    },
+    "Away": {
+      "2PT Blocked": {
+        "Defensive Rebound": 0.03602284337439098,
+        "Inbound": 0.03437924981020708,
+        "Steal": 0.03259133312555585
+      },
+      "2PT Made": {
+        "Defensive Rebound": 0.26431795585650475,
+        "Inbound": 0.2524154018092428,
+        "Steal": 0.35408345484145176
+      },
+      "2PT Missed": {
+        "Defensive Rebound": 0.16132128191237108,
+        "Inbound": 0.18647087224513742,
+        "Steal": 0.12474971995340611
+      },
+      "3PT Made": {
+        "Defensive Rebound": 0.10780214723902565,
+        "Inbound": 0.11412554295499126,
+        "Steal": 0.08940488533162406
+      },
+      "3PT Missed": {
+        "Defensive Rebound": 0.1609550132994681,
+        "Inbound": 0.16020908670426598,
+        "Steal": 0.11371666493063265
+      },
+      "Free Throw": {
+        "Defensive Rebound": 0.12397487525385238,
+        "Inbound": 0.11039270284774821,
+        "Steal": 0.13483250565798963
+      },
+      "Turnover": {
+        "Defensive Rebound": 0.1425849374851927,
+        "Inbound": 0.13815178507282455,
+        "Steal": 0.1459385613845093
+      }
+    }
+  }
+}
