@@ -179,7 +179,7 @@ def parallel_process_season(path, year):
 def parallel_main():
     path = kagglehub.dataset_download("szymonjwiak/nba-play-by-play-data-1997-2023")
     years = list(range(1997, 2024))
-    with ProcessPoolExecutor(max_workers=27) as executor:
+    with ProcessPoolExecutor(max_workers=4) as executor:
         futures = [executor.submit(parallel_process_season, path, year) for year in years]
         for f in tqdm(as_completed(futures), total=len(futures), desc="Seasons"):
             pass 

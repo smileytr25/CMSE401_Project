@@ -1,41 +1,41 @@
 {
-  "CHA": {
-    "Home": {
-      "avg_possessions_per_game": 97.74257425742574,
-      "start_type_probs": {
-        "Defensive Rebound": 0.4014721772015127,
-        "Inbound": 0.5204619124797407,
-        "Steal": 0.07192058346839546,
-        "Home Won Jump Ball": 0.0061453268503511614
-      }
-    },
-    "Away": {
-      "avg_possessions_per_game": 97.51602564102564,
-      "start_type_probs": {
-        "Defensive Rebound": 0.39641741988496304,
-        "Inbound": 0.5243714050944946,
-        "Steal": 0.07349219391947412,
-        "Away Won Jump Ball": 0.0057189811010682
-      }
-    }
-  },
   "ATL": {
     "Home": {
       "avg_possessions_per_game": 97.76261127596439,
       "start_type_probs": {
         "Home Won Jump Ball": 0.0067990044314939595,
-        "Inbound": 0.5249195653493596,
         "Defensive Rebound": 0.38675408243792875,
+        "Inbound": 0.5249195653493596,
         "Steal": 0.08152734778121776
       }
     },
     "Away": {
       "avg_possessions_per_game": 98.04411764705883,
       "start_type_probs": {
-        "Steal": 0.08396580170991451,
-        "Defensive Rebound": 0.3805309734513274,
+        "Away Won Jump Ball": 0.006749662516874156,
         "Inbound": 0.5287535623218839,
-        "Away Won Jump Ball": 0.006749662516874156
+        "Defensive Rebound": 0.3805309734513274,
+        "Steal": 0.08396580170991451
+      }
+    }
+  },
+  "CHA": {
+    "Home": {
+      "avg_possessions_per_game": 97.74257425742574,
+      "start_type_probs": {
+        "Home Won Jump Ball": 0.0061453268503511614,
+        "Inbound": 0.5204619124797407,
+        "Defensive Rebound": 0.4014721772015127,
+        "Steal": 0.07192058346839546
+      }
+    },
+    "Away": {
+      "avg_possessions_per_game": 97.51602564102564,
+      "start_type_probs": {
+        "Away Won Jump Ball": 0.0057189811010682,
+        "Defensive Rebound": 0.39641741988496304,
+        "Inbound": 0.5243714050944946,
+        "Steal": 0.07349219391947412
       }
     }
   },
@@ -43,19 +43,19 @@
     "Home": {
       "avg_possessions_per_game": 98.34848484848484,
       "start_type_probs": {
-        "Defensive Rebound": 0.3865660144815899,
+        "Home Won Jump Ball": 0.007949468494839008,
         "Inbound": 0.5292867046680019,
-        "Steal": 0.07619781235556924,
-        "Home Won Jump Ball": 0.007949468494839008
+        "Defensive Rebound": 0.3865660144815899,
+        "Steal": 0.07619781235556924
       }
     },
     "Away": {
       "avg_possessions_per_game": 98.44753086419753,
       "start_type_probs": {
-        "Away Won Jump Ball": 0.006709094899206822,
-        "Defensive Rebound": 0.3855221494184406,
         "Inbound": 0.5331535881117346,
-        "Steal": 0.07461516757061792
+        "Defensive Rebound": 0.3855221494184406,
+        "Steal": 0.07461516757061792,
+        "Away Won Jump Ball": 0.006709094899206822
       }
     }
   },
@@ -63,39 +63,39 @@
     "Home": {
       "avg_possessions_per_game": 97.22191011235955,
       "start_type_probs": {
+        "Home Won Jump Ball": 0.006963104215422842,
         "Defensive Rebound": 0.38883591921643407,
         "Inbound": 0.5241975094623097,
-        "Steal": 0.0800034671058334,
-        "Home Won Jump Ball": 0.006963104215422842
+        "Steal": 0.0800034671058334
       }
     },
     "Away": {
       "avg_possessions_per_game": 96.67514124293785,
       "start_type_probs": {
-        "Away Won Jump Ball": 0.006603746018759314,
         "Inbound": 0.5215498349063495,
         "Defensive Rebound": 0.3919001840867253,
-        "Steal": 0.07994623498816586
+        "Steal": 0.07994623498816586,
+        "Away Won Jump Ball": 0.006603746018759314
       }
     }
   },
-  "CHI": {
+  "DAL": {
     "Home": {
-      "avg_possessions_per_game": 96.67084639498432,
+      "avg_possessions_per_game": 95.31212121212121,
       "start_type_probs": {
-        "Home Won Jump Ball": 0.006420649847590635,
-        "Inbound": 0.5289902068876062,
-        "Steal": 0.07584797976522473,
-        "Defensive Rebound": 0.38874116349957843
+        "Inbound": 0.5331128986106254,
+        "Defensive Rebound": 0.3890884812259562,
+        "Home Won Jump Ball": 0.0053413028963850825,
+        "Steal": 0.07245731726703335
       }
     },
     "Away": {
-      "avg_possessions_per_game": 96.76100628930817,
+      "avg_possessions_per_game": 95.29003021148036,
       "start_type_probs": {
-        "Away Won Jump Ball": 0.00669483262918427,
-        "Defensive Rebound": 0.3856678583035424,
-        "Inbound": 0.528956776080598,
-        "Steal": 0.07868053298667534
+        "Away Won Jump Ball": 0.005358105323230082,
+        "Inbound": 0.5262039884594655,
+        "Defensive Rebound": 0.395009669953394,
+        "Steal": 0.07342823626391047
       }
     }
   },
@@ -112,30 +112,30 @@
     "Away": {
       "avg_possessions_per_game": 95.17492711370262,
       "start_type_probs": {
-        "Defensive Rebound": 0.38428549548169705,
+        "Away Won Jump Ball": 0.006892326543115331,
         "Inbound": 0.5337724000612651,
-        "Steal": 0.0750497779139225,
-        "Away Won Jump Ball": 0.006892326543115331
+        "Defensive Rebound": 0.38428549548169705,
+        "Steal": 0.0750497779139225
       }
     }
   },
-  "DAL": {
+  "CHI": {
     "Home": {
-      "avg_possessions_per_game": 95.31212121212121,
+      "avg_possessions_per_game": 96.67084639498432,
       "start_type_probs": {
-        "Inbound": 0.5331128986106254,
-        "Defensive Rebound": 0.3890884812259562,
-        "Steal": 0.07245731726703335,
-        "Home Won Jump Ball": 0.0053413028963850825
+        "Home Won Jump Ball": 0.006420649847590635,
+        "Defensive Rebound": 0.38874116349957843,
+        "Inbound": 0.5289902068876062,
+        "Steal": 0.07584797976522473
       }
     },
     "Away": {
-      "avg_possessions_per_game": 95.29003021148036,
+      "avg_possessions_per_game": 96.76100628930817,
       "start_type_probs": {
-        "Defensive Rebound": 0.395009669953394,
-        "Steal": 0.07342823626391047,
-        "Inbound": 0.5262039884594655,
-        "Away Won Jump Ball": 0.005358105323230082
+        "Away Won Jump Ball": 0.00669483262918427,
+        "Defensive Rebound": 0.3856678583035424,
+        "Inbound": 0.528956776080598,
+        "Steal": 0.07868053298667534
       }
     }
   },
@@ -143,8 +143,8 @@
     "Home": {
       "avg_possessions_per_game": 96.73353293413173,
       "start_type_probs": {
-        "Inbound": 0.5366306601875639,
         "Defensive Rebound": 0.381472654678263,
+        "Inbound": 0.5366306601875639,
         "Steal": 0.07530409483425671,
         "Home Won Jump Ball": 0.006592590299916432
       }
@@ -152,9 +152,9 @@
     "Away": {
       "avg_possessions_per_game": 96.74622356495469,
       "start_type_probs": {
+        "Inbound": 0.5380820035599413,
         "Defensive Rebound": 0.37448084189488806,
         "Steal": 0.08062954751272523,
-        "Inbound": 0.5380820035599413,
         "Away Won Jump Ball": 0.00680760703244543
       }
     }
@@ -163,10 +163,10 @@
     "Home": {
       "avg_possessions_per_game": 95.71428571428571,
       "start_type_probs": {
-        "Home Won Jump Ball": 0.008310719131614654,
-        "Inbound": 0.5257462686567164,
         "Defensive Rebound": 0.3915535956580733,
-        "Steal": 0.07438941655359566
+        "Inbound": 0.5257462686567164,
+        "Steal": 0.07438941655359566,
+        "Home Won Jump Ball": 0.008310719131614654
       }
     },
     "Away": {
@@ -179,12 +179,32 @@
       }
     }
   },
+  "IND": {
+    "Home": {
+      "avg_possessions_per_game": 96.68518518518519,
+      "start_type_probs": {
+        "Home Won Jump Ball": 0.0056183362063461665,
+        "Inbound": 0.5298793334610228,
+        "Steal": 0.07996552384600651,
+        "Defensive Rebound": 0.3845368064866245
+      }
+    },
+    "Away": {
+      "avg_possessions_per_game": 96.7737003058104,
+      "start_type_probs": {
+        "Away Won Jump Ball": 0.006067309211565808,
+        "Defensive Rebound": 0.37873281719070945,
+        "Inbound": 0.5310159582872491,
+        "Steal": 0.08418391531047559
+      }
+    }
+  },
   "GSW": {
     "Home": {
       "avg_possessions_per_game": 98.53513513513514,
       "start_type_probs": {
-        "Defensive Rebound": 0.37816117175928465,
         "Inbound": 0.5319545778704262,
+        "Defensive Rebound": 0.37816117175928465,
         "Steal": 0.0833287618629656,
         "Home Won Jump Ball": 0.006555488507323496
       }
@@ -192,30 +212,10 @@
     "Away": {
       "avg_possessions_per_game": 99.13424657534246,
       "start_type_probs": {
-        "Away Won Jump Ball": 0.006024762325889896,
-        "Steal": 0.08210811408357285,
         "Inbound": 0.5293223524209595,
-        "Defensive Rebound": 0.3825447711695777
-      }
-    }
-  },
-  "IND": {
-    "Home": {
-      "avg_possessions_per_game": 96.68518518518519,
-      "start_type_probs": {
-        "Defensive Rebound": 0.3845368064866245,
-        "Steal": 0.07996552384600651,
-        "Inbound": 0.5298793334610228,
-        "Home Won Jump Ball": 0.0056183362063461665
-      }
-    },
-    "Away": {
-      "avg_possessions_per_game": 96.7737003058104,
-      "start_type_probs": {
-        "Away Won Jump Ball": 0.006067309211565808,
-        "Steal": 0.08418391531047559,
-        "Inbound": 0.5310159582872491,
-        "Defensive Rebound": 0.37873281719070945
+        "Defensive Rebound": 0.3825447711695777,
+        "Steal": 0.08210811408357285,
+        "Away Won Jump Ball": 0.006024762325889896
       }
     }
   },
@@ -223,19 +223,19 @@
     "Home": {
       "avg_possessions_per_game": 99.03206997084548,
       "start_type_probs": {
-        "Home Won Jump Ball": 0.006093970796043335,
+        "Inbound": 0.525347385774847,
         "Steal": 0.08354922279792747,
         "Defensive Rebound": 0.38500942063118226,
-        "Inbound": 0.525347385774847
+        "Home Won Jump Ball": 0.006093970796043335
       }
     },
     "Away": {
       "avg_possessions_per_game": 98.486646884273,
       "start_type_probs": {
         "Away Won Jump Ball": 0.007110575474540524,
-        "Steal": 0.08632118107863815,
         "Defensive Rebound": 0.3713166616450738,
-        "Inbound": 0.5352515818017475
+        "Inbound": 0.5352515818017475,
+        "Steal": 0.08632118107863815
       }
     }
   },
@@ -243,10 +243,10 @@
     "Home": {
       "avg_possessions_per_game": 97.39655172413794,
       "start_type_probs": {
-        "Inbound": 0.531923054227887,
-        "Defensive Rebound": 0.3827226057709329,
+        "Home Won Jump Ball": 0.0069333805393284945,
         "Steal": 0.07842095946185165,
-        "Home Won Jump Ball": 0.0069333805393284945
+        "Defensive Rebound": 0.3827226057709329,
+        "Inbound": 0.531923054227887
       }
     },
     "Away": {
@@ -254,28 +254,8 @@
       "start_type_probs": {
         "Away Won Jump Ball": 0.007326007326007326,
         "Defensive Rebound": 0.3841650153125563,
-        "Steal": 0.07671290458175704,
-        "Inbound": 0.5317960727796793
-      }
-    }
-  },
-  "LAL": {
-    "Home": {
-      "avg_possessions_per_game": 98.6123076923077,
-      "start_type_probs": {
-        "Home Won Jump Ball": 0.007238915410777248,
-        "Defensive Rebound": 0.38306967456082874,
-        "Inbound": 0.5305001716122187,
-        "Steal": 0.07919123841617523
-      }
-    },
-    "Away": {
-      "avg_possessions_per_game": 98.23312883435582,
-      "start_type_probs": {
-        "Away Won Jump Ball": 0.006869847614289283,
-        "Defensive Rebound": 0.3776230327254559,
-        "Inbound": 0.536535098675993,
-        "Steal": 0.0789720209842618
+        "Inbound": 0.5317960727796793,
+        "Steal": 0.07671290458175704
       }
     }
   },
@@ -284,8 +264,8 @@
       "avg_possessions_per_game": 96.10510510510511,
       "start_type_probs": {
         "Home Won Jump Ball": 0.007405555729150392,
-        "Defensive Rebound": 0.39055713526856856,
         "Inbound": 0.5197637721463613,
+        "Defensive Rebound": 0.39055713526856856,
         "Steal": 0.08227353685591976
       }
     },
@@ -299,63 +279,43 @@
       }
     }
   },
+  "LAL": {
+    "Home": {
+      "avg_possessions_per_game": 98.6123076923077,
+      "start_type_probs": {
+        "Defensive Rebound": 0.38306967456082874,
+        "Inbound": 0.5305001716122187,
+        "Steal": 0.07919123841617523,
+        "Home Won Jump Ball": 0.007238915410777248
+      }
+    },
+    "Away": {
+      "avg_possessions_per_game": 98.23312883435582,
+      "start_type_probs": {
+        "Away Won Jump Ball": 0.006869847614289283,
+        "Defensive Rebound": 0.3776230327254559,
+        "Inbound": 0.536535098675993,
+        "Steal": 0.0789720209842618
+      }
+    }
+  },
   "MIA": {
     "Home": {
       "avg_possessions_per_game": 95.27565982404693,
       "start_type_probs": {
         "Inbound": 0.530025547108252,
-        "Steal": 0.07793406999292068,
         "Defensive Rebound": 0.3847148265566807,
+        "Steal": 0.07793406999292068,
         "Home Won Jump Ball": 0.007325556342146573
       }
     },
     "Away": {
       "avg_possessions_per_game": 94.69767441860465,
       "start_type_probs": {
-        "Inbound": 0.5294388506876228,
+        "Away Won Jump Ball": 0.007950638506876228,
         "Defensive Rebound": 0.38445481335952847,
-        "Steal": 0.07815569744597249,
-        "Away Won Jump Ball": 0.007950638506876228
-      }
-    }
-  },
-  "MIN": {
-    "Home": {
-      "avg_possessions_per_game": 97.5886075949367,
-      "start_type_probs": {
-        "Home Won Jump Ball": 0.0066800700434528825,
-        "Defensive Rebound": 0.3802451520850898,
-        "Steal": 0.08187949931902198,
-        "Inbound": 0.5311952785524353
-      }
-    },
-    "Away": {
-      "avg_possessions_per_game": 98.59807073954984,
-      "start_type_probs": {
-        "Away Won Jump Ball": 0.006685363944690843,
-        "Defensive Rebound": 0.3670101747978085,
-        "Inbound": 0.5442538481607097,
-        "Steal": 0.08205061309679103
-      }
-    }
-  },
-  "MIL": {
-    "Home": {
-      "avg_possessions_per_game": 98.15384615384616,
-      "start_type_probs": {
-        "Home Won Jump Ball": 0.008446534308603273,
-        "Defensive Rebound": 0.38180657146174385,
-        "Inbound": 0.5301288749564612,
-        "Steal": 0.07961801927319169
-      }
-    },
-    "Away": {
-      "avg_possessions_per_game": 98.05172413793103,
-      "start_type_probs": {
-        "Inbound": 0.5271086102807573,
-        "Defensive Rebound": 0.3838286149698142,
-        "Steal": 0.0807396987280933,
-        "Away Won Jump Ball": 0.008323076021335208
+        "Inbound": 0.5294388506876228,
+        "Steal": 0.07815569744597249
       }
     }
   },
@@ -372,10 +332,50 @@
     "Away": {
       "avg_possessions_per_game": 95.32903225806452,
       "start_type_probs": {
-        "Away Won Jump Ball": 0.007275311315646995,
         "Defensive Rebound": 0.3898551705468327,
         "Inbound": 0.5302855982674608,
-        "Steal": 0.07258391987005956
+        "Steal": 0.07258391987005956,
+        "Away Won Jump Ball": 0.007275311315646995
+      }
+    }
+  },
+  "MIL": {
+    "Home": {
+      "avg_possessions_per_game": 98.15384615384616,
+      "start_type_probs": {
+        "Defensive Rebound": 0.38180657146174385,
+        "Steal": 0.07961801927319169,
+        "Inbound": 0.5301288749564612,
+        "Home Won Jump Ball": 0.008446534308603273
+      }
+    },
+    "Away": {
+      "avg_possessions_per_game": 98.05172413793103,
+      "start_type_probs": {
+        "Defensive Rebound": 0.3838286149698142,
+        "Steal": 0.0807396987280933,
+        "Inbound": 0.5271086102807573,
+        "Away Won Jump Ball": 0.008323076021335208
+      }
+    }
+  },
+  "MIN": {
+    "Home": {
+      "avg_possessions_per_game": 97.5886075949367,
+      "start_type_probs": {
+        "Defensive Rebound": 0.3802451520850898,
+        "Steal": 0.08187949931902198,
+        "Inbound": 0.5311952785524353,
+        "Home Won Jump Ball": 0.0066800700434528825
+      }
+    },
+    "Away": {
+      "avg_possessions_per_game": 98.59807073954984,
+      "start_type_probs": {
+        "Away Won Jump Ball": 0.006685363944690843,
+        "Inbound": 0.5442538481607097,
+        "Defensive Rebound": 0.3670101747978085,
+        "Steal": 0.08205061309679103
       }
     }
   },
@@ -392,10 +392,30 @@
     "Away": {
       "avg_possessions_per_game": 98.77639751552795,
       "start_type_probs": {
-        "Away Won Jump Ball": 0.0070426963466012705,
-        "Defensive Rebound": 0.38521033767213736,
         "Inbound": 0.5308432371250708,
+        "Defensive Rebound": 0.38521033767213736,
+        "Away Won Jump Ball": 0.0070426963466012705,
         "Steal": 0.07690372885619065
+      }
+    }
+  },
+  "ORL": {
+    "Home": {
+      "avg_possessions_per_game": 96.97115384615384,
+      "start_type_probs": {
+        "Defensive Rebound": 0.38929102627664847,
+        "Inbound": 0.5263262270699058,
+        "Steal": 0.07859857874731449,
+        "Home Won Jump Ball": 0.005784167906131218
+      }
+    },
+    "Away": {
+      "avg_possessions_per_game": 96.79245283018868,
+      "start_type_probs": {
+        "Inbound": 0.5235867446393763,
+        "Steal": 0.07667316439246263,
+        "Defensive Rebound": 0.39382716049382716,
+        "Away Won Jump Ball": 0.005912930474333983
       }
     }
   },
@@ -405,8 +425,8 @@
       "start_type_probs": {
         "Home Won Jump Ball": 0.007780899743724334,
         "Inbound": 0.5283601445024239,
-        "Steal": 0.08185383024052861,
-        "Defensive Rebound": 0.3820051255133233
+        "Defensive Rebound": 0.3820051255133233,
+        "Steal": 0.08185383024052861
       }
     },
     "Away": {
@@ -419,23 +439,23 @@
       }
     }
   },
-  "ORL": {
+  "PHI": {
     "Home": {
-      "avg_possessions_per_game": 96.97115384615384,
+      "avg_possessions_per_game": 98.2,
       "start_type_probs": {
-        "Home Won Jump Ball": 0.005784167906131218,
-        "Inbound": 0.5263262270699058,
-        "Steal": 0.07859857874731449,
-        "Defensive Rebound": 0.38929102627664847
+        "Defensive Rebound": 0.38449669814231935,
+        "Steal": 0.08211442325495279,
+        "Inbound": 0.5261062766154416,
+        "Home Won Jump Ball": 0.007282601987286305
       }
     },
     "Away": {
-      "avg_possessions_per_game": 96.79245283018868,
+      "avg_possessions_per_game": 97.89520958083833,
       "start_type_probs": {
-        "Inbound": 0.5235867446393763,
-        "Defensive Rebound": 0.39382716049382716,
-        "Steal": 0.07667316439246263,
-        "Away Won Jump Ball": 0.005912930474333983
+        "Defensive Rebound": 0.3800348655839985,
+        "Inbound": 0.5280912621953084,
+        "Steal": 0.08480900388414839,
+        "Away Won Jump Ball": 0.007064868336544637
       }
     }
   },
@@ -443,39 +463,19 @@
     "Home": {
       "avg_possessions_per_game": 98.144578313253,
       "start_type_probs": {
-        "Home Won Jump Ball": 0.006230051559047385,
         "Defensive Rebound": 0.37868278909894426,
         "Inbound": 0.5355389148048122,
-        "Steal": 0.07954824453719617
+        "Steal": 0.07954824453719617,
+        "Home Won Jump Ball": 0.006230051559047385
       }
     },
     "Away": {
       "avg_possessions_per_game": 98.68098159509202,
       "start_type_probs": {
-        "Away Won Jump Ball": 0.007304942493005906,
-        "Inbound": 0.5336027354678272,
         "Defensive Rebound": 0.376530929437364,
-        "Steal": 0.08256139260180292
-      }
-    }
-  },
-  "PHI": {
-    "Home": {
-      "avg_possessions_per_game": 98.2,
-      "start_type_probs": {
-        "Defensive Rebound": 0.38449669814231935,
-        "Inbound": 0.5261062766154416,
-        "Steal": 0.08211442325495279,
-        "Home Won Jump Ball": 0.007282601987286305
-      }
-    },
-    "Away": {
-      "avg_possessions_per_game": 97.89520958083833,
-      "start_type_probs": {
-        "Away Won Jump Ball": 0.007064868336544637,
-        "Defensive Rebound": 0.3800348655839985,
-        "Steal": 0.08480900388414839,
-        "Inbound": 0.5280912621953084
+        "Steal": 0.08256139260180292,
+        "Inbound": 0.5336027354678272,
+        "Away Won Jump Ball": 0.007304942493005906
       }
     }
   },
@@ -484,18 +484,18 @@
       "avg_possessions_per_game": 98.54491017964072,
       "start_type_probs": {
         "Home Won Jump Ball": 0.00683599684025035,
-        "Steal": 0.07173239351036033,
         "Inbound": 0.5236373579631768,
-        "Defensive Rebound": 0.3977942516862126
+        "Defensive Rebound": 0.3977942516862126,
+        "Steal": 0.07173239351036033
       }
     },
     "Away": {
       "avg_possessions_per_game": 98.20408163265306,
       "start_type_probs": {
-        "Defensive Rebound": 0.3987946799667498,
-        "Steal": 0.07021137632110201,
+        "Away Won Jump Ball": 0.006709416933855837,
         "Inbound": 0.5242845267782924,
-        "Away Won Jump Ball": 0.006709416933855837
+        "Defensive Rebound": 0.3987946799667498,
+        "Steal": 0.07021137632110201
       }
     }
   },
@@ -512,9 +512,9 @@
     "Away": {
       "avg_possessions_per_game": 97.97427652733118,
       "start_type_probs": {
+        "Steal": 0.08135871348867739,
         "Inbound": 0.5363964555300296,
         "Defensive Rebound": 0.3750246143747949,
-        "Steal": 0.08135871348867739,
         "Away Won Jump Ball": 0.007220216606498195
       }
     }
@@ -523,19 +523,19 @@
     "Home": {
       "avg_possessions_per_game": 96.50301204819277,
       "start_type_probs": {
+        "Steal": 0.07743687381004401,
         "Inbound": 0.5306969630762508,
         "Defensive Rebound": 0.3844377165329754,
-        "Steal": 0.07743687381004401,
         "Home Won Jump Ball": 0.007428446580729736
       }
     },
     "Away": {
       "avg_possessions_per_game": 96.40785498489426,
       "start_type_probs": {
-        "Away Won Jump Ball": 0.007489580395474915,
         "Inbound": 0.5363040957663502,
         "Defensive Rebound": 0.3818745886998214,
-        "Steal": 0.07433173513835355
+        "Steal": 0.07433173513835355,
+        "Away Won Jump Ball": 0.007489580395474915
       }
     }
   },
@@ -543,8 +543,8 @@
     "Home": {
       "avg_possessions_per_game": 95.82857142857142,
       "start_type_probs": {
-        "Inbound": 0.5352415026833631,
         "Defensive Rebound": 0.38184257602862254,
+        "Inbound": 0.5352415026833631,
         "Steal": 0.07614788312462731,
         "Home Won Jump Ball": 0.006768038163387001
       }
@@ -552,10 +552,10 @@
     "Away": {
       "avg_possessions_per_game": 96.0945558739255,
       "start_type_probs": {
-        "Away Won Jump Ball": 0.007007186092971941,
-        "Defensive Rebound": 0.38014729999701824,
         "Inbound": 0.5332617705817455,
-        "Steal": 0.0795837433282643
+        "Steal": 0.0795837433282643,
+        "Defensive Rebound": 0.38014729999701824,
+        "Away Won Jump Ball": 0.007007186092971941
       }
     }
   },
@@ -563,19 +563,19 @@
     "Home": {
       "avg_possessions_per_game": 94.72672672672672,
       "start_type_probs": {
-        "Inbound": 0.5196867867106264,
+        "Home Won Jump Ball": 0.007703525234592949,
         "Defensive Rebound": 0.3946867867106264,
-        "Steal": 0.0779229013441542,
-        "Home Won Jump Ball": 0.007703525234592949
+        "Inbound": 0.5196867867106264,
+        "Steal": 0.0779229013441542
       }
     },
     "Away": {
       "avg_possessions_per_game": 94.87202380952381,
       "start_type_probs": {
+        "Away Won Jump Ball": 0.007685792264014807,
         "Defensive Rebound": 0.3840072779747153,
-        "Steal": 0.08049690999780405,
         "Inbound": 0.5278100197634659,
-        "Away Won Jump Ball": 0.007685792264014807
+        "Steal": 0.08049690999780405
       }
     }
   },
@@ -583,19 +583,19 @@
     "Home": {
       "avg_possessions_per_game": 98.82262996941895,
       "start_type_probs": {
-        "Defensive Rebound": 0.3773479808138635,
+        "Home Won Jump Ball": 0.006529475475785239,
         "Inbound": 0.5368095311774718,
-        "Steal": 0.07931301253287946,
-        "Home Won Jump Ball": 0.006529475475785239
+        "Defensive Rebound": 0.3773479808138635,
+        "Steal": 0.07931301253287946
       }
     },
     "Away": {
       "avg_possessions_per_game": 97.52321981424149,
       "start_type_probs": {
-        "Away Won Jump Ball": 0.0074285714285714285,
+        "Inbound": 0.5357460317460317,
         "Defensive Rebound": 0.37961904761904763,
         "Steal": 0.07720634920634921,
-        "Inbound": 0.5357460317460317
+        "Away Won Jump Ball": 0.0074285714285714285
       }
     }
   }
